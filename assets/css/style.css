@@ -21,8 +21,8 @@ html, body {
 
 .heading-box {
     background-color: #ffffff;
-    box-shadow: 0 0 10px 5px;
-    border-radius: 25px;
+    box-shadow: 0 0 10px 5px #16262e;
+    border-radius: 10px;
     opacity: 0.8;
     padding: 10px;
     /* Credit: The below code was taken from: https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/ 
@@ -34,6 +34,20 @@ html, body {
 } 
 
 .splash-heading {
-    color: #16262E;
+    color: #16262e;
     text-align: center;
+}
+
+.mainsite-button {
+    position: fixed;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.mainsite-button button {
+    color: #ffffff;
+    background-color: #1aa735;
+    font-size: 20px;
+    border-radius: 10px;
 }
