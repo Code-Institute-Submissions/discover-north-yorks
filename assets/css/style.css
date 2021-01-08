@@ -21,6 +21,7 @@ html, body {
 
 .heading-box {
     background-color: #ffffff;
+    box-shadow: 0 0 10px 5px;
     border-radius: 25px;
     opacity: 0.8;
     padding: 10px;
