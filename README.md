@@ -14,6 +14,10 @@
 
 ### Wireframes:
 
+* Splash Page:
+
+![splash-page-wireframe](assets/wireframes/splash-page.png)
+
 ### Features:
 
 ### Technology Used:
