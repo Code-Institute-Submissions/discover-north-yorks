@@ -3,3 +3,17 @@
 body {
     font-family: sansita swashed, roboto, sans-serif;
 }
+
+html, body {
+    height: 100%;
+}
+
+.splash-background {
+    background-image: url(../images/hardraw-waterfall.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    position: relative;
+    overflow: hidden;
+}
