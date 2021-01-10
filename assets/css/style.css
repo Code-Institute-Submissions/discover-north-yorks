@@ -60,3 +60,12 @@ html, body {
     color: #16262e;
     font-size: 22px;
 }
+
+#hero-picture {
+    background-image: url(../images/yorkshire-dales.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
