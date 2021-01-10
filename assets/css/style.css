@@ -52,6 +52,10 @@ html, body {
     border-radius: 10px;
 }
 
+.navbar {
+    box-shadow: 0 0 6px #16262e;
+}
+
 .navbar-light .navbar-nav .nav-link {
     color: #16262e;
     font-size: 22px;
