@@ -101,3 +101,20 @@ html, body {
     font-size: 18px;
     word-spacing: 5px;
 }
+
+footer {
+    background-color: #1aa735;
+    padding-top: 20px;
+}
+
+.social-icons i {
+    color: #ffffff;
+    text-shadow: 2px 2px #12854a;
+    padding-bottom: 10px;
+    margin-right: 10px;
+}
+
+.footer-p {
+    color: #ffffff;
+    font-size: 20px;
+}
