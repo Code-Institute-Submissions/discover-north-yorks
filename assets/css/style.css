@@ -69,3 +69,22 @@ html, body {
     width: 100%;
     overflow: hidden;
 }
+
+#about-title {
+    padding-top: 20px;
+    color: #16262e;
+}
+
+#about-line {
+    border-top: 5px solid #1aa735;
+    width: 20%;
+}
+
+.about-para {
+    /* Credit: The below box-shadow was taken from: https://getcssscan.com/css-box-shadow-examples box shadow of about section */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    padding: 20px;
+    margin: 10px 0;
+    font-size: 18px;
+    word-spacing: 5px;
+}
