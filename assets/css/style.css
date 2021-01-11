@@ -82,7 +82,7 @@ html, body {
 
 .about-para {
     /* Credit: The below box-shadow was taken from: https://getcssscan.com/css-box-shadow-examples box shadow of about section */
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     padding: 20px;
     margin: 20px 0;
     font-size: 22px;
@@ -95,7 +95,7 @@ html, body {
 }
 
 .map-para {
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     padding: 20px;
     margin: 20px 0;
     font-size: 18px;
@@ -117,4 +117,5 @@ footer {
 .footer-p {
     color: #ffffff;
     font-size: 20px;
+    text-shadow: 2px 2px #12854a;
 }
