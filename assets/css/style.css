@@ -119,6 +119,10 @@ footer {
     margin-right: 5px;
 }
 
+.social-icons i:hover {
+    color: #f5b700;
+}
+
 .footer-p {
     color: #ffffff;
     font-size: 20px;
