@@ -34,4 +34,5 @@
 
 ### Media used
 
-* Hardraw Force image used on the website splash-page is by Obsidain Photography from Pixabay.
+* Hardraw Force image used on the website splash-page is by Obsidain Photography from [Pixabay](https://pixabay.com/photos/hardraw-force-waterfall-cliff-drop-1067170/).
+* North Yorkshire Dales hero image used on the home-page is by Kevinsphotos from [Pixabay](https://pixabay.com/photos/yorkshire-moors-dales-yorkshire-1649463/).
