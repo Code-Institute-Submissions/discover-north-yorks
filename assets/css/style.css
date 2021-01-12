@@ -84,20 +84,25 @@ html, body {
     /* Credit: The below box-shadow was taken from: https://getcssscan.com/css-box-shadow-examples box shadow of about section */
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     padding: 20px;
-    margin: 20px 0;
+    margin: 10px 0 20px 0;
     font-size: 22px;
     word-spacing: 5px;
 }
 
 #explore-title {
-    padding-top: 20px;
+    padding-top: 10px;
     color: #16262e;
+}
+
+div#map {
+    min-height: 360px;
+    margin: 10px 0 10px;
 }
 
 .map-para {
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     padding: 20px;
-    margin: 20px 0 40px 0;
+    margin: 10px 0 20px 0;
     font-size: 18px;
     word-spacing: 5px;
 }
@@ -105,6 +110,7 @@ html, body {
 footer {
     background-color: #1aa735;
     padding-top: 20px;
+    margin-top: 20px;
 }
 
 .social-p {
