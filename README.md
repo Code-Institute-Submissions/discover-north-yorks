@@ -2,28 +2,36 @@
 
 ## Code Institute - Milestone Project 2
 
-### UX:
+## UX:
 
-### Design:
+## Design:
 
-#### Colour Scheme:
+### Colour Scheme
 
-#### Typography:
+### Typography
 
-#### Imagery:
+### Imagery
 
-### Wireframes:
+## Wireframes:
 
 * Splash Page:
 
 ![splash-page-wireframe](assets/wireframes/splash-page.png)
 
-### Features:
+## Features:
 
-### Technology Used:
+## Technology used:
 
-### Testing:
+## Testing:
 
-### Deployment:
+## Deployment:
 
-### Credits:
+## Credits:
+
+### Code
+
+### Content
+
+### Media used
+
+* Hardraw Force image used on the website splash-page is by Obsidain Photography from Pixabay.
