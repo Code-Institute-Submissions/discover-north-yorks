@@ -10,6 +10,10 @@
 
 ### Typography
 
+The primary font I have chosen for my project is *Sansita Swashed* and the secondary font I have selected is *Roboto*. 
+The secondary font is used if there are any issues presenting the primary font.
+The fonts were both taken from [Google-Fonts](https://fonts.google.com/specimen/Sansita+Swashed?query=sansita+s#standard-styles).
+
 ### Imagery
 
 ## Wireframes:
@@ -21,6 +25,12 @@
 ## Features:
 
 ## Technology used:
+
+### Programming Languages
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+* [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Testing:
 
