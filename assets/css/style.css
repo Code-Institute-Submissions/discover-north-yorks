@@ -21,7 +21,7 @@ html, body {
     overflow: hidden;
 }
 
-.heading-box {
+.heading-position {
     /* Credit: The below code was taken from: https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/ 
     This was taken to centre the heading-box in the middle of the screen */
     position: fixed;
@@ -36,15 +36,13 @@ html, body {
 }
 
 .mainsite-button {
-    position: fixed;
-    top: 75%;
-    left: 50%;
-    transform: translate(-50%, 150%);
+    text-align: center;
 }
 
 .mainsite-button button {
     color: #ffffff;
     background-color: #1aa735;
+    border-radius: 50%;
     font-size: 20px;
 }
 
