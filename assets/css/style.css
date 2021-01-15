@@ -43,6 +43,7 @@ html, body {
     color: #ffffff;
     background-color: #1aa735;
     margin-top: 10px;
+    font-family: roboto, sans-serif;
     font-size: 20px;
 }
 
@@ -57,11 +58,31 @@ html, body {
 
 #hero-picture {
     background-image: url(../images/yorkshire-dales.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
     width: 100%;
     overflow: hidden;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    border-radius: 0%;
+    padding-top: 100px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.jumbotron p {
+    margin-top: 10px;
+}
+
+.jumbotron button {
+    margin-top: 25px;
+    background-color: #1aa735;
+    font-family: roboto, sans-serif;
 }
 
 #about-title {
