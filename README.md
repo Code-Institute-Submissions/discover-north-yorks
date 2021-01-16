@@ -40,6 +40,8 @@ The fonts were both taken from [Google-Fonts](https://fonts.google.com/specimen/
 
 ### Code
 
+* [Snazzy-Maps](https://snazzymaps.com/style/47/nature) was used to style the google-maps API.
+
 ### Content
 
 ### Media used
