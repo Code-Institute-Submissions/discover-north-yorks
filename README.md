@@ -36,6 +36,33 @@ The fonts were both taken from [Google-Fonts](https://fonts.google.com/specimen/
 
 ## Deployment:
 
+### GitHub Pages
+
+This project was deployed to GitHub Pages by doing the following:
+
+1. Sign in to GitHub and locate the GitHub Repository.
+1. Select "Settings" from the menu above the Repository files.
+1. Scroll down to the "GitHub Pages" section.
+1. Under "Source" click the dropdown menu called "None" and select "Master Branch".
+1. After selecting "Master Branch", the page will automatically refresh.
+1. The website is now deployed. Return to the "GitHub Pages" section to retrieve the newly published link.
+
+### Forking the GitHub Repository
+
+1. Sign in to GitHub and locate the GitHub Repository.
+1. Go to the top right side of the screen and below the navigation bar is the "Fork" button.
+1. After clicking this, you will now have a copy of the original Repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Sign in to GitHub and locate the Repository.
+1. Above the Repository files, click on the "Code" button.
+1. You are then met with three options, HTTPS, SSH and GitHub CLI. Select one and copy the URL.
+1. Open Git Bash.
+1. Now change the current working directory to the location you'd like the cloned directory to be made.
+1. Type `Git Clone` and then paste the URL copied from step 3.
+1. Press Enter. Your local clone will now be created. 
+
 ## Credits:
 
 ### Code
