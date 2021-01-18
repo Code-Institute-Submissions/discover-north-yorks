@@ -45,7 +45,7 @@ html, body {
     background-color: #1aa735;
     margin-top: 10px;
     font-family: roboto, sans-serif;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .navbar {
@@ -84,6 +84,7 @@ html, body {
     margin-top: 25px;
     background-color: #1aa735;
     font-family: roboto, sans-serif;
+    font-size: 22px;
 }
 
 #about-title {
@@ -171,4 +172,25 @@ footer {
 
 #contact-heading {
     padding-top: 50px;
+}
+
+.contact-form label {
+    font-size: 22px;
+}
+
+.contact-form button[type="submit"] {
+    margin-top: 25px;
+    color: #ffffff;
+    background-color: #1aa735;
+    font-family: roboto, sans-serif;
+    font-size: 22px;
+}
+
+@media(min-width: 992px) {
+    .contact-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
