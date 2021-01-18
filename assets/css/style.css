@@ -105,6 +105,10 @@ html, body {
     word-spacing: 5px;
 }
 
+.explore-section {
+    margin-bottom: 20px;
+}
+
 #explore-title {
     padding-top: 10px;
     color: #16262e;
@@ -126,7 +130,6 @@ div#map {
 footer {
     background-color: #1aa735;
     padding-top: 20px;
-    margin-top: 20px;
 }
 
 .social-p {
@@ -149,4 +152,23 @@ footer {
     color: #ffffff;
     font-size: 20px;
     text-shadow: 2px 2px #12854a;
+}
+
+.contact-background {
+    background-image: url(../images/yorkshire-dales.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 675px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.contact-section {
+    color: #ffffff;
+}
+
+#contact-heading {
+    padding-top: 50px;
 }
