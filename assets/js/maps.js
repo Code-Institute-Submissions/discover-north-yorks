@@ -1,9 +1,18 @@
 function initMap() {
     let map = new google.maps.Map(document.getElementById("map"), {
         center: {
+
+        // Centres the map on North Yorkshire:
+
             lat: 54.250359,
             lng: -1.470855},
+            
+        // Zooms into North Yorkshire:
+            
             zoom: 8,
+
+        // Map Styles:
+
             styles: [
     {
         "featureType": "landscape",
@@ -55,10 +64,12 @@ function initMap() {
         ]}
        ]
     });
+
+        // Map Markers:
         
-    const myMark = {"lat": 54.1218, "lng": -0.9061};
+        const myMark = {"lat": 54.1218, "lng": -0.9061};
 
-    const placeMarker = new google.maps.Marker({position: myMark});
+        const placeMarker = new google.maps.Marker({position: myMark});
 
-    placeMarker.setMap(map);
+        placeMarker.setMap(map);
 }
