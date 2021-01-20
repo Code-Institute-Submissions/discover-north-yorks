@@ -55,6 +55,7 @@ html, body {
 .navbar-light .navbar-nav .nav-link {
     color: #16262e;
     font-size: 26px;
+    margin-right: 10px;
 }
 
 #hero-picture {
