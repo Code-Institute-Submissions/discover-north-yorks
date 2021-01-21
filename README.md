@@ -75,3 +75,17 @@ This project was deployed to GitHub Pages by doing the following:
 
 * Hardraw Force image used on the website splash-page is by Obsidain Photography from [Pixabay](https://pixabay.com/photos/hardraw-force-waterfall-cliff-drop-1067170/).
 * North Yorkshire Dales hero image used on the home-page is by Kevinsphotos from [Pixabay](https://pixabay.com/photos/yorkshire-moors-dales-yorkshire-1649463/).
+
+#### Things to do page image credits
+
+* Dalby Forest image is by Luke Porter from [Unsplash](https://unsplash.com/photos/DnP-gG1Qg8o).
+* Piglets generic image used for 'Piglets Adventure' is by Christopher Carson from [Unsplash](https://unsplash.com/photos/i4XLJmlYit4).
+* North York Moors Railway image is by Lisa Baker from [Unsplash](https://unsplash.com/photos/oBFSFAH7sYw).
+* Eden camp image is by Vicki Roberts from [Pixabay](https://pixabay.com/photos/signs-world-war-1-world-war-2-2249564/)
+* Cows generic image used for James Herriot Museum is by PublicDomainPictures from [Pixabay](https://pixabay.com/photos/england-north-yorkshire-cow-cows-70714/).
+* Castle Howard image is by Pexels from [Pixabay](https://pixabay.com/photos/castle-castle-howard-england-1845978/).
+* Ribblehead Viaduct is by 12019/10259 images from [Pixabay](https://pixabay.com/photos/ribblehead-viaduct-yorkshire-england-1748638/).
+* Whitby Abbey image is by Michaela Wenzler from [Pixabay](https://pixabay.com/photos/whitby-abbey-ruin-monastery-4537154/).
+* Aysgarth Falls image is by Postbyte from [Pixabay](https://pixabay.com/photos/yorkshire-dales-aysgarth-falls-1100943/).
+* Brimham Rocks image is by Martina Backes from [Pixabay](https://pixabay.com/photos/stones-rock-rock-formation-4529985/).
+* Malham Cove image is by Tim Hill from [Pixabay](https://pixabay.com/photos/limestone-causeway-malham-2451396/).
