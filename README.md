@@ -79,7 +79,7 @@ This project was deployed to GitHub Pages by doing the following:
 #### Things to do page image credits
 
 * Dalby Forest image is by Luke Porter from [Unsplash](https://unsplash.com/photos/DnP-gG1Qg8o).
-* Piglets generic image used for 'Piglets Adventure' is by Christopher Carson from [Unsplash](https://unsplash.com/photos/i4XLJmlYit4).
+* Piglets generic image used for Piglets Adventure is by Christopher Carson from [Unsplash](https://unsplash.com/photos/i4XLJmlYit4).
 * North York Moors Railway image is by Lisa Baker from [Unsplash](https://unsplash.com/photos/oBFSFAH7sYw).
 * Eden camp image is by Vicki Roberts from [Pixabay](https://pixabay.com/photos/signs-world-war-1-world-war-2-2249564/)
 * Cows generic image used for James Herriot Museum is by PublicDomainPictures from [Pixabay](https://pixabay.com/photos/england-north-yorkshire-cow-cows-70714/).
