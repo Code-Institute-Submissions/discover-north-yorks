@@ -12,7 +12,7 @@
 
 The primary font I have chosen for my project is *Sansita Swashed* and the secondary font I have selected is *Roboto*. 
 The secondary font is used if there are any issues presenting the primary font.
-The fonts were both taken from [Google-Fonts](https://fonts.google.com/specimen/Sansita+Swashed?query=sansita+s#standard-styles).
+The fonts were both taken from [Google Fonts](https://fonts.google.com/specimen/Sansita+Swashed?query=sansita+s#standard-styles).
 
 ### Imagery
 
@@ -31,6 +31,14 @@ The fonts were both taken from [Google-Fonts](https://fonts.google.com/specimen/
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 * [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+
+### Frameworks, Libraries and Programs
+
+1. [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - is used to make the website responsive as well as form the layout and add components to the page.
+1. [Google Fonts](https://fonts.google.com/specimen/Sansita+Swashed?query=sansita#pairings) - is used to implement *Sansita-Swashed* to my style.css and *Roboto* for the buttons and CTA's.
+1. [Flaticon](https://www.flaticon.com/) - was used to select and edit the logo of the website.
+1. [Pine Tools](https://pinetools.com/) - was used to resize the images on the Things to do page to the same size as each other.
+1. [TinyPNG](https://tinypng.com/) - was used to decompress the imagery on the website to improve the speed of the website.
 
 ## Testing:
 
