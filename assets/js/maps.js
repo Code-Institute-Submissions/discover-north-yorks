@@ -9,7 +9,7 @@ function initMap() {
             
         // Zooms into North Yorkshire:
             
-            zoom: 8,
+            zoom: 9,
 
         // Map Styles:
 
