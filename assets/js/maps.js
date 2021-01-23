@@ -67,7 +67,7 @@ function initMap() {
 
         // Map Markers:
         
-        const myMark = [
+        const myMarks = [
                         // Attractions
                         {"lat": 54.3063, "lng": -0.5997},
                         {"lat": 54.021010, "lng": -1.000332},
@@ -88,7 +88,10 @@ function initMap() {
                         {"lat": 54.0803, "lng": -1.6850},
                         {"lat": 54.0728, "lng": -2.1579}];
 
-        const placeMarker = new google.maps.Marker({position: myMark});
+        for (let i=0; i < myMarks.length; i++) {             
+
+        const placeMarker = new google.maps.Marker({position: myMarks[i]});
 
         placeMarker.setMap(map);
+}
 }
