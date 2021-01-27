@@ -76,8 +76,12 @@ This project was deployed to GitHub Pages by doing the following:
 ### Code
 
 * [Snazzy-Maps](https://snazzymaps.com/style/47/nature) was used to style the google-maps API.
+* [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) was used to place the title in the middle of the screen on my splash page.
+* [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the boxes on the webpage.
 
 ### Content
+
+* [North York Moors National Park](https://www.northyorkmoors.org.uk/visiting/see-and-do/attractions/dalby-forest) - This was used to write information on the card of Dalby Forest on the Things to do page.
 
 ### Media used
 
