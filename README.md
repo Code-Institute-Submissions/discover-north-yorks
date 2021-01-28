@@ -20,7 +20,15 @@ The fonts were both taken from [Google Fonts](https://fonts.google.com/specimen/
 
 * Splash Page:
 
-![splash-page-wireframe](assets/wireframes/splash-page.png)
+![splash-page-wireframe](assets/wireframes/splash-wireframe.png)
+
+* Home Page:
+
+![home-page-wireframe](assets/wireframes/home-wireframe.png)
+
+* Things to do Page:
+
+![activities-page-wireframe](assets/wireframes/activities-wireframe.png)
 
 ## Features:
 
