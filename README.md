@@ -2,6 +2,8 @@
 
 ## Code Institute - Milestone Project 2
 
+[Click here to view my website](https://paulfrankling.github.io/discover-north-yorks/)
+
 ## UX:
 
 ## Design:
