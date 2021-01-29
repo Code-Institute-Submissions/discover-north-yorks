@@ -64,7 +64,7 @@ html, body {
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 675px;
+    height: 850px;
     width: 100%;
     overflow: hidden;
 }
@@ -165,7 +165,7 @@ footer {
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 675px;
+    height: 850px;
     width: 100%;
     overflow: hidden;
 }
