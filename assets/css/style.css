@@ -72,7 +72,7 @@ html, body {
 .jumbotron {
     margin-bottom: 0;
     border-radius: 0%;
-    padding-top: 150px;
+    padding-top: 100px;
     text-align: center;
     color: #ffffff;
 }
@@ -176,7 +176,16 @@ footer {
 }
 
 .contact-heading {
-    padding-top: 150px;
+    padding-top: 100px;
+}
+
+.website-info {
+    padding-top: 50px;
+    font-size: 24px;
+}
+
+.website-info i {
+    padding: 10px;
 }
 
 .contact-p {
@@ -185,18 +194,14 @@ footer {
     color: #16262e;
 }
 
-.form-box {
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-    margin: 0 0 40px;
-    padding: 10px 0 30px;
-}
-
 .contact-form input {
     border: 2px solid #1aa735;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .contact-form textarea {
     border: 2px solid #1aa735;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .form-group {
@@ -204,7 +209,7 @@ footer {
 }
 
 .contact-form button[type="submit"] {
-    margin-top: 10px;
+    margin: 25px 0 40px;
     color: #ffffff;
     background-color: #1aa735;
     font-family: roboto, sans-serif;
