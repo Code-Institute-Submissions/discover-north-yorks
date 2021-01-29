@@ -32,6 +32,10 @@ The fonts were both taken from [Google Fonts](https://fonts.google.com/specimen/
 
 ![activities-page-wireframe](assets/wireframes/activities-wireframe.png)
 
+* Contact Page:
+
+![contact-page-wireframe](assets/wireframes/contact-wireframe.png)
+
 ## Features:
 
 ## Technology used:
