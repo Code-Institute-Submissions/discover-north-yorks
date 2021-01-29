@@ -64,7 +64,7 @@ html, body {
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 850px;
+    height: 675px;
     width: 100%;
     overflow: hidden;
 }
@@ -72,7 +72,7 @@ html, body {
 .jumbotron {
     margin-bottom: 0;
     border-radius: 0%;
-    padding-top: 250px;
+    padding-top: 150px;
     text-align: center;
     color: #ffffff;
 }
@@ -141,6 +141,7 @@ footer {
 
 .social-icons i:hover {
     color: #f5b700;
+    border: #f5b700;
 }
 
 .footer-p {
@@ -165,7 +166,7 @@ footer {
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 850px;
+    height: 675px;
     width: 100%;
     overflow: hidden;
 }
@@ -175,18 +176,46 @@ footer {
 }
 
 .contact-heading {
-    padding-top: 250px;
+    padding-top: 150px;
 }
 
 .contact-p {
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 26px;
+    color: #16262e;
+}
+
+.form-box {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin: 0 0 40px;
+    padding: 10px 0 30px;
+}
+
+.contact-form input {
+    border: 2px solid #1aa735;
+}
+
+.contact-form textarea {
+    border: 2px solid #1aa735;
+}
+
+.form-group {
+    padding-top: 15px;
 }
 
 .contact-form button[type="submit"] {
-    margin-top: 25px;
+    margin-top: 10px;
     color: #ffffff;
     background-color: #1aa735;
     font-family: roboto, sans-serif;
     font-size: 22px;
+}
+
+@media(min-width: 992px) {
+    .contact-form {
+        padding-top: 20px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
 }
