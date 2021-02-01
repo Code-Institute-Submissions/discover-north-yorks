@@ -10,6 +10,8 @@
 
 ### Colour Scheme
 
+![colour-scheme](assets/documentation/colour-scheme.png)
+
 ### Typography
 
 The primary font I have chosen for my project is *Sansita Swashed* and the secondary font I have selected is *Roboto*. 
