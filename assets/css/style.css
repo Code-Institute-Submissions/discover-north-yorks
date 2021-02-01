@@ -216,6 +216,9 @@ footer {
     font-size: 22px;
 }
 
+/* Credit: media-query is taken from https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/715392be2ba942abb1b6f9eaf566aed6/?child=first 
+- this is to prevent the contact-form increasing its width fully on larger device screens */
+
 @media(min-width: 992px) {
     .contact-form {
         padding-top: 20px;
