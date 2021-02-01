@@ -57,6 +57,9 @@ The fonts were both taken from [Google Fonts](https://fonts.google.com/specimen/
 1. [Flaticon](https://www.flaticon.com/) - was used to select and edit the logo of the website.
 1. [Pine Tools](https://pinetools.com/) - was used to resize the images on the Things to do page to the same size as each other.
 1. [TinyPNG](https://tinypng.com/) - was used to decompress the imagery on the website to improve the speed of the website.
+1. [Coolor](https://coolors.co/ffffff-f5b700-1aa735-12854a-16262e) - was used to assemble the colour scheme of the website.
+1. [Balsamiq](https://balsamiq.com/wireframes/desktop/) - was used to create the wireframes for the project.
+1. [Font Awesome](https://fontawesome.com/) - was used to apply social media icons on the webpage footer and icons for the webpage 'contact details' in the contact section.
 
 ## Testing:
 
