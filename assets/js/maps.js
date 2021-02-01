@@ -14,6 +14,9 @@ function initMap() {
         // Map Styles:
 
             styles: [
+
+        // Credit: Map styling taking from: https://snazzymaps.com/style/47/nature 
+
     {
         "featureType": "landscape",
         "stylers": [
