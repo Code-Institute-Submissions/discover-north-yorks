@@ -93,6 +93,7 @@ This project was deployed to GitHub Pages by doing the following:
 * [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) was used to place the title in the middle of the screen on my splash page.
 * [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the boxes on the webpage.
 * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to apply a media query to the contact form to prevent its width increasing on larger device screens.
+* [Stack Overflow](https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari/) was used to prevent the number on the contact section from hyperlinking on mobiles.
 
 ### Content
 
