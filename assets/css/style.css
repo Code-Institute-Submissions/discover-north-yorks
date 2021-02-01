@@ -188,12 +188,6 @@ footer {
     padding: 10px;
 }
 
-.website-info p {
-    pointer-events: none;
-    cursor: default;
-    text-decoration: none;
-}
-
 .contact-p {
     margin-top: 20px;
     font-size: 26px;
