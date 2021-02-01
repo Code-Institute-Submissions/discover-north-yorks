@@ -12,6 +12,8 @@
 
 ![colour-scheme](assets/documentation/colour-scheme.png)
 
+The colour scheme used for this website was composed through the use of [Coolor](https://coolors.co/ffffff-f5b700-1aa735-12854a-16262e).
+
 ### Typography
 
 The primary font I have chosen for my project is *Sansita Swashed* and the secondary font I have selected is *Roboto*. 
