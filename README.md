@@ -48,7 +48,7 @@ I had an issue with the cards keeping to an equal height on the Things to do pag
 
 ![box-bug](assets/documentation/box-bug.png)
 
-I searched for a solution to the problem on [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) and found that `d flex align-items-stretch` kept the cards equal heights when changing screen size regardless of volume of content.
+I searched for a solution to the problem on [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) and found that `d flex align-items-stretch` kept the cards equal heights when changing screen size regardless of the volume of content.
 
 ## Technology used:
 
