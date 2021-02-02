@@ -42,6 +42,14 @@ The fonts were both taken from [Google Fonts](https://fonts.google.com/specimen/
 
 ## Features:
 
+## Issues Overcome:
+
+I had an issue with the cards keeping to an equal height on the Things to do page when changing screen size as shown in the image below:
+
+![box-bug](assets/documentation/box-bug.png)
+
+I searched for a solution to the problem on [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) and found that `d flex align-items-stretch` kept the cards equal heights when changing screen size regardless of volume of content.
+
 ## Technology used:
 
 ### Programming Languages
@@ -106,7 +114,7 @@ This project was deployed to GitHub Pages by doing the following:
 ### Content
 
 * [North York Moors National Park](https://www.northyorkmoors.org.uk/) - This was used to write information on the card of Dalby Forest, Moors Railway, Eden Camp and James Herriot sections on the Things to do page.
-* [Visit York](https://www.visityork.org/explore/featured-attractions/nrm) - This was used for information on the National Railway musuem card.
+* [Visit York](https://www.visityork.org/explore/featured-attractions/nrm) - This was used for information on the National Railway museum card.
 
 ### Media used
 
