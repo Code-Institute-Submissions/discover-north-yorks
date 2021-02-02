@@ -101,10 +101,11 @@ This project was deployed to GitHub Pages by doing the following:
 * [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the boxes on the webpage.
 * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to apply a media query to the contact form to prevent its width increasing on larger device screens.
 * [Stack Overflow](https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari/) was used to prevent the number on the contact section from hyperlinking on mobiles.
+* [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) was also used to keep each card at an equal height when changing screen size.
 
 ### Content
 
-* [North York Moors National Park](https://www.northyorkmoors.org.uk/visiting/see-and-do/attractions/dalby-forest) - This was used to write information on the card of Dalby Forest on the Things to do page.
+* [North York Moors National Park](https://www.northyorkmoors.org.uk/) - This was used to write information on the card of Dalby Forest, Moors Railway, Eden Camp and James Herriot sections on the Things to do page.
 
 ### Media used
 
