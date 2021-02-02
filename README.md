@@ -106,6 +106,7 @@ This project was deployed to GitHub Pages by doing the following:
 ### Content
 
 * [North York Moors National Park](https://www.northyorkmoors.org.uk/) - This was used to write information on the card of Dalby Forest, Moors Railway, Eden Camp and James Herriot sections on the Things to do page.
+* [Visit York](https://www.visityork.org/explore/featured-attractions/nrm) - This was used for information on the National Railway musuem card.
 
 ### Media used
 
