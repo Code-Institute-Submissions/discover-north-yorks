@@ -115,7 +115,7 @@ This project was deployed to GitHub Pages by doing the following:
 
 * [North York Moors National Park](https://www.northyorkmoors.org.uk/) - This was used to write information on the card of Dalby Forest, Moors Railway, Eden Camp, James Herriot, Castle Howard and Whitby Abbey sections on the Things to do page.
 * [Visit York](https://www.visityork.org/explore/featured-attractions/nrm) - This was used for information on the National Railway museum card.
-* [Yorkshire Dales](https://www.yorkshiredales.org.uk/) - This was used to write information on the Ribblehead Viaduct card.
+* [Yorkshire Dales](https://www.yorkshiredales.org.uk/) - This was used to write information on the Ribblehead Viaduct, Aysgarth Falls and Malham Cove card.
 
 ### Media used
 
