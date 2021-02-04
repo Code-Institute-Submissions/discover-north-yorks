@@ -68,6 +68,9 @@ I searched for a solution to the problem on [Stack Overflow](https://stackoverfl
 1. [Coolor](https://coolors.co/ffffff-f5b700-1aa735-12854a-16262e) - was used to assemble the colour scheme of the website.
 1. [Balsamiq](https://balsamiq.com/wireframes/desktop/) - was used to create the wireframes for the project.
 1. [Font Awesome](https://fontawesome.com/) - was used to apply social media icons on the webpage footer and icons for the webpage 'contact details' in the contact section.
+1. [Hover.css](https://ianlunn.github.io/Hover/) - was used on my navigation bar links and social media links. This changes colour of the link when hovered over.
+1. [Git](https://git-scm.com/) - was used for version control. It was through the terminal Gitpod in which code was committed and pushed to GitHub.
+1. [GitHub](https://github.com/) - was used to store the project pushed from Git.
 
 ## Testing:
 
