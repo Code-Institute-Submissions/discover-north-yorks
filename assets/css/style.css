@@ -121,6 +121,17 @@ html, body {
     color: #16262e;
 }
 
+.map-buttons button {
+    margin: 10px -10px 10px -10px;
+    font-size: 25px;
+    color: #1aa735;
+    width: 200px;
+}
+
+.map-buttons i {
+    margin-left: 10px;
+}
+
 div#map {
     min-height: 500px;
     margin: 10px 0 10px;

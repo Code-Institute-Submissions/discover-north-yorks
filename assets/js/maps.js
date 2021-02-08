@@ -9,13 +9,13 @@ function initMap() {
             
         // Zooms into North Yorkshire:
             
-            zoom: 9,
+            zoom: 8,
 
         // Map Styles:
 
             styles: [
 
-        // Credit: Map styling taking from: https://snazzymaps.com/style/47/nature 
+        // Credit: Map styling taken from: https://snazzymaps.com/style/47/nature 
 
     {
         "featureType": "landscape",
