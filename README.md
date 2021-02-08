@@ -5,7 +5,7 @@
 [Click here to view my website](https://paulfrankling.github.io/discover-north-yorks/)
 
 This website has been designed to encourage users to visit the county of North Yorkshire. Discover North Yorkshire is targeted at tourists and vacationers, as well as residents of the county. 
-The primary goal of the website is to attract people to visit the county through the use of the Google Map API, showing the exact location, as well as providing detailed information for each location on a separate page. 
+The primary goal of the website is to attract people to visit the county through the use of the Google Maps API, showing the exact location, as well as providing detailed information for each location on a separate page. 
 By also inputting a contact form on the website, visitors can contact the site with any potential query.
 
 
@@ -31,7 +31,7 @@ The logo was selected and edited on [Flaticon](https://www.flaticon.com/). The l
 
 [Pixabay](https://pixabay.com/) was used to establish a full page image on the **Splash page** and a hero image on the **Home page** and **Contact page**.
 
-[Pixabay](https://pixabay.com/) and [Unsplash](https://unsplash.com/) was also used to input images in the **Things to do page** to help put an image to each description of a location for the user.  
+[Pixabay](https://pixabay.com/) and [Unsplash](https://unsplash.com/) was used to input images in the **Things to do page** to help put an image to each description of a location.  
 
 ## Wireframes:
 
