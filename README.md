@@ -4,6 +4,11 @@
 
 [Click here to view my website](https://paulfrankling.github.io/discover-north-yorks/)
 
+This website has been designed to encourage users to visit the county of North Yorkshire. Discover North Yorkshire is targeted at tourists and vacationers, as well as residents of the county. 
+The primary goal of the website is to attract people to visit the county through the use of the Google Map API, showing the exact location, as well as providing detailed information for each location on a separate page. 
+By also inputting a contact form on the website, visitors can contact the site with any potential query.
+
+
 ## UX:
 
 ## Design:
@@ -21,6 +26,12 @@ The secondary font is used if there are any issues presenting the primary font.
 The fonts were both taken from [Google Fonts](https://fonts.google.com/specimen/Sansita+Swashed?query=sansita+s#standard-styles).
 
 ### Imagery
+
+The logo was selected and edited on [Flaticon](https://www.flaticon.com/). The logo is an adaptation of the White Rose of York, which is now better known for representing Yorkshire.
+
+[Pixabay](https://pixabay.com/) was used to establish a full page image on the **Splash page** and a hero image on the **Home page** and **Contact page**.
+
+[Pixabay](https://pixabay.com/) and [Unsplash](https://unsplash.com/) was also used to input images in the **Things to do page** to help put an image to each description of a location for the user.  
 
 ## Wireframes:
 
@@ -44,7 +55,7 @@ The fonts were both taken from [Google Fonts](https://fonts.google.com/specimen/
 
 ## Issues Overcome:
 
-I had an issue with the cards keeping to an equal height on the Things to do page when changing screen size as shown in the image below:
+I had an issue with the cards keeping to an equal height on the **Things to do page** when changing screen size as shown in the image below:
 
 ![box-bug](assets/documentation/box-bug.png)
 
@@ -63,7 +74,7 @@ I searched for a solution to the problem on [Stack Overflow](https://stackoverfl
 1. [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - is used to make the website responsive as well as form the layout and add components to the page.
 1. [Google Fonts](https://fonts.google.com/specimen/Sansita+Swashed?query=sansita#pairings) - is used to implement *Sansita-Swashed* to my style.css and *Roboto* for the buttons and CTA's.
 1. [Flaticon](https://www.flaticon.com/) - was used to select and edit the logo of the website.
-1. [Pine Tools](https://pinetools.com/) - was used to resize the images on the Things to do page to the same size as each other.
+1. [Pine Tools](https://pinetools.com/) - was used to resize the images on the **Things to do page** to the same size as each other.
 1. [TinyPNG](https://tinypng.com/) - was used to decompress the imagery on the website to improve the speed of the website.
 1. [Coolor](https://coolors.co/ffffff-f5b700-1aa735-12854a-16262e) - was used to assemble the colour scheme of the website.
 1. [Balsamiq](https://balsamiq.com/wireframes/desktop/) - was used to create the wireframes for the project.
@@ -108,7 +119,7 @@ This project was deployed to GitHub Pages by doing the following:
 ### Code
 
 * [Snazzy-Maps](https://snazzymaps.com/style/47/nature) was used to style the google-maps API.
-* [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) was used to place the title in the middle of the screen on my splash page.
+* [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) was used to place the title in the middle of the screen on my **Splash page**.
 * [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the boxes on the webpage.
 * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to apply a media query to the contact form to prevent its width increasing on larger device screens.
 * [Stack Overflow](https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari/) was used to prevent the number on the contact section from hyperlinking on mobiles.
@@ -116,15 +127,15 @@ This project was deployed to GitHub Pages by doing the following:
 
 ### Content
 
-* [North York Moors National Park](https://www.northyorkmoors.org.uk/) - This was used to write information on the card of Dalby Forest, Moors Railway, Eden Camp, James Herriot, Castle Howard and Whitby Abbey sections on the Things to do page.
+* [North York Moors National Park](https://www.northyorkmoors.org.uk/) - This was used to write information on the card of Dalby Forest, Moors Railway, Eden Camp, James Herriot, Castle Howard and Whitby Abbey sections on the **Things to do page**.
 * [Visit York](https://www.visityork.org/explore/featured-attractions/nrm) - This was used for information on the National Railway museum card.
 * [Yorkshire Dales](https://www.yorkshiredales.org.uk/) - This was used to write information on the Ribblehead Viaduct, Aysgarth Falls and Malham Cove card.
 * [National Trust](https://www.nationaltrust.org.uk/) - This was used to write information on the Brimham Rocks card.
 
 ### Media used
 
-* Hardraw Force image used on the website splash-page is by Obsidain Photography from [Pixabay](https://pixabay.com/photos/hardraw-force-waterfall-cliff-drop-1067170/).
-* North Yorkshire Dales hero image used on the home-page is by Kevinsphotos from [Pixabay](https://pixabay.com/photos/yorkshire-moors-dales-yorkshire-1649463/).
+* Hardraw Force image used on the website **Splash page** is by Obsidain Photography from [Pixabay](https://pixabay.com/photos/hardraw-force-waterfall-cliff-drop-1067170/).
+* North Yorkshire Dales hero image used on the **Home page** is by Kevinsphotos from [Pixabay](https://pixabay.com/photos/yorkshire-moors-dales-yorkshire-1649463/).
 
 #### Things to do page image credits
 
@@ -139,3 +150,9 @@ This project was deployed to GitHub Pages by doing the following:
 * Aysgarth Falls image is by Postbyte from [Pixabay](https://pixabay.com/photos/yorkshire-dales-aysgarth-falls-1100943/).
 * Brimham Rocks image is by Martina Backes from [Pixabay](https://pixabay.com/photos/stones-rock-rock-formation-4529985/).
 * Malham Cove image is by Tim Hill from [Pixabay](https://pixabay.com/photos/limestone-causeway-malham-2451396/).
+
+### Acknowledgements
+
+* Many thanks to my Mentor, who has helped me immensely in the planning and formation of the website.
+* Many thanks to Code Institute tutor support for their rapid response to any of my difficulties or queries.
+* Many thanks to the Slack community for being incredibly useful and supportive. 
