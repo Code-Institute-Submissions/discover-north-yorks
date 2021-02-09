@@ -105,7 +105,7 @@ html, body {
 
 .about-para {
     /* Credit: The below box-shadow was taken from: https://getcssscan.com/css-box-shadow-examples box shadow of about section */
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
     padding: 20px;
     margin: 10px 0 20px 0;
     font-size: 22px;
@@ -170,7 +170,7 @@ footer {
 }
 
 .card {
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
     margin-bottom: 20px;
 }
 
