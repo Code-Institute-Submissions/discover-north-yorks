@@ -84,6 +84,63 @@ function initMap() {
     content: "<h5>Malham Cove</h5>"},
     ];
 
+    // Map Markers array:
+    let mapMarkers = [];
+
+    // Applying Map Marker function:
+    function addMarker(props) {
+        let marker = new google.maps.Marker({
+        position: props.place,
+        // Drops Map Markers onto position with animation:
+        animation: google.maps.Animation.DROP,
+        map: map,
+        });
+        // Pushes Markers into mapMarkers array:
+        mapMarkers.push(marker);
+
+    // Info Window for Markers:
     let infoWindow = new google.maps.InfoWindow();
 
+        // Opens Info Window on click:
+        marker.addListener("click", () => {
+        infoWindow.open(map, marker);
+        infoWindow.setContent(props.content);
+        });
+    }
+    
+    // Removes Markers:
+        function clearMarkers() {
+        for (let i = 0; i < mapMarkers.length; i++) {
+            mapMarkers[i].setMap(null);
+        }
+        // Puts the removed Markers back into the array: 
+            mapMarkers = [];
+        }
+
+        // Shows Markers on the map:
+        function showMarkers(marker) {
+        for (let i=0; i < marker.length; i++) {
+            addMarker(marker[i]);
+        }
+    }
+
+    // Button on click shows three markers for attractions and removes previously clicked markers:
+    $(".attractions-btn").on("click", function(){
+        clearMarkers(); showMarkers(attractionMarkers);
+    });
+    
+    // Button on click shows three markers for museums and removes previously clicked markers:
+    $(".museums-btn").on("click", function(){
+        clearMarkers(); showMarkers(museumMarkers);
+    });
+    
+    // Button on click shows three markers for sites and removes previously clicked markers:
+    $(".sites-btn").on("click", function(){
+        clearMarkers(); showMarkers(siteMarkers);
+    });
+    
+    // Button on click shows three markers for walks and removes previously clicked markers:
+    $(".walks-btn").on("click", function(){
+        clearMarkers(); showMarkers(walkMarkers);
+    });
 }
