@@ -127,7 +127,7 @@ This project was deployed to GitHub Pages by doing the following:
 
 ### Content
 
-* [North Yorkshire County Council](https://www.northyorks.gov.uk/about-north-yorkshire-rural-commission) - was used to extract the fact that North Yorkshire is the largest county in North Yorkshire.
+* [North Yorkshire County Council](https://www.northyorks.gov.uk/about-north-yorkshire-rural-commission) - was used to extract the fact that North Yorkshire is the largest county in England.
 * [North York Moors National Park](https://www.northyorkmoors.org.uk/) - This was used to write information on the card of Dalby Forest, Moors Railway, Eden Camp, James Herriot, Castle Howard and Whitby Abbey sections on the **Things to do page**.
 * [Visit York](https://www.visityork.org/explore/featured-attractions/nrm) - This was used for information on the National Railway museum card.
 * [Yorkshire Dales](https://www.yorkshiredales.org.uk/) - This was used to write information on the Ribblehead Viaduct, Aysgarth Falls and Malham Cove card.
