@@ -120,13 +120,14 @@ This project was deployed to GitHub Pages by doing the following:
 
 * [Snazzy-Maps](https://snazzymaps.com/style/47/nature) was used to style the google-maps API.
 * [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) was used to place the title in the middle of the screen on my **Splash page**.
-* [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the boxes on the webpage.
+* [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the cards on the **Things to do page**.
 * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to apply a media query to the contact form to prevent its width increasing on larger device screens.
 * [Stack Overflow](https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari/) was used to prevent the number on the contact section from hyperlinking on mobiles.
 * [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) was also used to keep each card at an equal height when changing screen size.
 
 ### Content
 
+* [North Yorkshire County Council](https://www.northyorks.gov.uk/about-north-yorkshire-rural-commission) - was used to extract the fact that North Yorkshire is the largest county in North Yorkshire.
 * [North York Moors National Park](https://www.northyorkmoors.org.uk/) - This was used to write information on the card of Dalby Forest, Moors Railway, Eden Camp, James Herriot, Castle Howard and Whitby Abbey sections on the **Things to do page**.
 * [Visit York](https://www.visityork.org/explore/featured-attractions/nrm) - This was used for information on the National Railway museum card.
 * [Yorkshire Dales](https://www.yorkshiredales.org.uk/) - This was used to write information on the Ribblehead Viaduct, Aysgarth Falls and Malham Cove card.
@@ -136,6 +137,7 @@ This project was deployed to GitHub Pages by doing the following:
 
 * Hardraw Force image used on the website **Splash page** is by Obsidain Photography from [Pixabay](https://pixabay.com/photos/hardraw-force-waterfall-cliff-drop-1067170/).
 * North Yorkshire Dales hero image used on the **Home page** is by Kevinsphotos from [Pixabay](https://pixabay.com/photos/yorkshire-moors-dales-yorkshire-1649463/).
+* Snowy landscape image used for the background of the about section on the **Home page** is by Northern_Punkie from [Pixabay](https://pixabay.com/photos/north-yorkshire-snow-landscape-4652370/).
 
 #### Things to do page image credits
 
