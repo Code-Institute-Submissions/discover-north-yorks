@@ -34,24 +34,24 @@ function initMap() {
        ]
     });
         
-    // Map Markers and Info Window content:
+    // Map Markers and Info Window titles, content and links:
     // Attractions Markers array:
     let attractionMarkers = [
 
     {place: {lat: 54.3063, lng: -0.5997},
     content: "<h5>Dalby Forest</h5>"
     + "<p>Dalby Forest is situated in the southern slopes of the North York Moors...</p>"
-    + "<a href=activities.html#attraction-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#dalby-card><p>Find Out More</p></a>"},
 
     {place: {lat: 54.021010, lng: -1.000332},
     content: "<h5>Piglets Adventure Farm</h5>"
     + "<p>Piglets Adventure Farm is located near Strensall, York and is the ideal place...</p>"
-    + "<a href=activities.html#attraction-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#piglets-card><p>Find Out More</p></a>"},
 
     {place: {lat: 54.4012, lng: -0.7125},
     content: "<h5>North York Moors Railway</h5>"
     + "<p>The North York Moors Railway is one of the world's greatest heritage railways...</p>"
-    + "<a href=activities.html#attraction-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#moors-card><p>Find Out More</p></a>"},
     ];
 
     // Museums Markers array:
@@ -59,17 +59,17 @@ function initMap() {
     {place: {lat: 54.1511, lng: -0.7790},
     content: "<h5>Eden Camp</h5>"
     + "<p>Located near the historic market town of Malton, Eden Camp is an award-winning...</p>"
-    + "<a href=activities.html#museum-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#edencamp-card><p>Find Out More</p></a>"},
 
     {place: {lat: 54.23361, lng: -1.34485},
     content: "<h5>The World of James Herriot</h5>"
     + "<p>Based in Thirsk, The World of James Herriot is the former home and surgery of the world's most famous...</p>"
-    + "<a href=activities.html#museum-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#herriot-card><p>Find Out More</p></a>"},
 
     {place: {lat: 53.9605, lng: -1.0964},
     content: "<h5>National Railway Museum</h5>"
     + "<p>The National Railway Museum is situated in York and is home to iconic locomotives and...</p>"
-    + "<a href=activities.html#museum-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#nationalrailway-card><p>Find Out More</p></a>"},
     ];
 
     // Sites Markers array:
@@ -77,17 +77,17 @@ function initMap() {
     {place: {lat: 54.1218, lng: -0.9061},
     content: "<h5>Castle Howard</h5>"
     + "<p>Situated in the Howardian Hills, Castle Howard is surrounded by an area of breathtaking beauty...</p>"
-    + "<a href=activities.html#site-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#castlehoward-card><p>Find Out More</p></a>"},
 
     {place: {lat: 54.2103, lng: -2.3703},
     content: "<h5>Ribblehead Viaduct</h5>"
     + "<p>The Ribblehead Viaduct is just over the border from Cumbria into North Yorkshire....</p>"
-    + "<a href=activities.html#site-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#ribblehead-card><p>Find Out More</p></a>"},
 
     {place: {lat: 54.4883, lng: -0.6079},
     content: "<h5>Whitby Abbey</h5>"
     + "<p>Whitby Abbey is set on a headland high over the popular seaside town of Whitby...</p>"
-    + "<a href=activities.html#site-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#whitby-card><p>Find Out More</p></a>"},
     ];
 
     // Walks Markers array:
@@ -95,17 +95,17 @@ function initMap() {
     {place: {lat: 54.2945, lng: -1.9834},
     content: "<h5>Aysgarth Falls</h5>"
     + "<p>The three stepped waterfalls of Aysgarth Falls has allured tourists for over 200 years...</p>"
-    + "<a href=activities.html#walk-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#aysgarth-card><p>Find Out More</p></a>"},
 
     {place: {lat: 54.0803, lng: -1.6850},
     content: "<h5>Brimham Rocks</h5>"
     + "<p>Brimham Rocks is a natural spectacle created by millions of years worth of ice, wind and rain...</p>"
-    + "<a href=activities.html#walk-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#brimham-card><p>Find Out More</p></a>"},
 
     {place: {lat: 54.0728, lng: -2.1579},
     content: "<h5>Malham Cove</h5>"
     + "<p>Malham Cove is a 70 metre high, gently curving cliff of white limestone...</p>"
-    + "<a href=activities.html#walk-cards><p>Find Out More</p></a>"},
+    + "<a href=activities.html#malham-card><p>Find Out More</p></a>"},
     ];
 
     // Map Markers array:
