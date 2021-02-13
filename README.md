@@ -29,7 +29,7 @@ The fonts were both taken from [Google Fonts](https://fonts.google.com/specimen/
 
 The logo was selected and edited on [Flaticon](https://www.flaticon.com/). The logo is an adaptation of the White Rose of York, which is now better known for representing Yorkshire.
 
-[Pixabay](https://pixabay.com/) was used to establish a full page image on the **Splash page** and a hero image on the **Home page** and **Contact page**.
+[Pixabay](https://pixabay.com/) was used to establish a full page image on the **Splash page** and a hero image on the **Home page** and **Contact page**. It was also used to input an image of a snowy landscape to the about section on the **Home page**.
 
 [Pixabay](https://pixabay.com/) and [Unsplash](https://unsplash.com/) was used to input images in the **Things to do page** to help put an image to each description of a location.  
 
