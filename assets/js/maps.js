@@ -33,8 +33,11 @@ function initMap() {
         ]}
        ]
     });
-        
-    // Map Markers and Info Window titles, content and links:
+
+    /* Credit: Below code helped by tutorial: https://developers.google.com/maps/documentation/javascript/examples/marker-remove
+       Credit: Below code was also helped by tutorial: https://www.youtube.com/watch?v=Zxf1mnP5zcw&list=LL&index=4&t=1437s */   
+    
+       // Map Markers and Info Window titles, content and links:
     // Attractions Markers array:
     let attractionMarkers = [
 
@@ -131,6 +134,13 @@ function initMap() {
         infoWindow.setContent(props.content);
         });
     }
+
+    // Shows Markers on the map:
+        function showMarkers(marker) {
+        for (let i=0; i < marker.length; i++) {
+            addMarker(marker[i]);
+        }
+    }
     
     // Removes Markers:
         function clearMarkers() {
@@ -141,13 +151,7 @@ function initMap() {
             mapMarkers = [];
         }
 
-        // Shows Markers on the map:
-        function showMarkers(marker) {
-        for (let i=0; i < marker.length; i++) {
-            addMarker(marker[i]);
-        }
-    }
-
+    // Credit: jQuery help for buttons taken from: https://stackoverflow.com/questions/4323848/how-to-handle-button-click-events-in-jquery
     // Button on click shows three markers for attractions and removes previously clicked markers:
     $(".attractions-btn").on("click", function(){
         clearMarkers(); showMarkers(attractionMarkers);

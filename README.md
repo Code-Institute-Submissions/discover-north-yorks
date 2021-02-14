@@ -8,8 +8,26 @@ This website has been designed to encourage users to visit the county of North Y
 The primary goal of the website is to attract people to visit the county through the use of the Google Maps API, showing the exact location, as well as providing detailed information for each location on a separate page. 
 By also inputting a contact form on the website, visitors can contact the site with any potential query.
 
+## User Experience(UX):
 
-## UX:
+  * ### User Stories
+     
+    * #### First Time Visitor Goals
+    
+      * As a First Time Visitor, I want to understand the purpose of the website and view what North Yorkshire has to offer.
+      * As a First Time Visitor, I want to navigate throughout the website easily to find content.
+      * As a First Time Visitor, I would like to be able to view the map and see where and what types of activities there are presented.
+
+    * #### Returning Visitor Goals
+
+      * As a Returning Visitor, I would like to further educate myself on each location or the location I am interested in visiting on the **Things to do page**.
+      * As a Returning Visitor, I would like to contact the administrators with any general queries or questions about visiting North Yorkshire. 
+
+    * #### Frequent User Goals
+
+      * As a Frequent User, I would like to see if there has been any locations added to the website.
+      * As a Frequent User, I would like to view the different social media accounts to either view, look for new updates or potentially interact with other people involved in the public forums.
+      * As a Frequent User, I would like to revert back to the map to plan a journey or use it for map-reading whilst travelling in North Yorkshire.
 
 ## Design:
 
@@ -80,6 +98,7 @@ I searched for a solution to the problem on [Stack Overflow](https://stackoverfl
 1. [Balsamiq](https://balsamiq.com/wireframes/desktop/) - was used to create the wireframes for the project.
 1. [Font Awesome](https://fontawesome.com/) - was used to apply social media icons on the webpage footer and icons for the webpage 'contact details' in the contact section.
 1. [Hover.css](https://ianlunn.github.io/Hover/) - was used on my navigation bar links and social media links. This changes colour of the link when hovered over.
+1. [jQuery](https://jquery.com/) was used to stop the contact increasing fully on a larger screen and helped with marker interaction on the Google Maps API.
 1. [Git](https://git-scm.com/) - was used for version control. It was through the terminal Gitpod in which code was committed and pushed to GitHub.
 1. [GitHub](https://github.com/) - was used to store the project pushed from Git.
 
@@ -124,6 +143,8 @@ This project was deployed to GitHub Pages by doing the following:
 * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to apply a media query to the contact form to prevent its width increasing on larger device screens.
 * [Stack Overflow](https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari/) was used to prevent the number on the contact section from hyperlinking on mobiles.
 * [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) was also used to keep each card at an equal height when changing screen size.
+* [Stack Overflow](https://stackoverflow.com/questions/4323848/how-to-handle-button-click-events-in-jquery) was used to help with targeting the Google Maps buttons.
+* [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/examples/marker-remove) and [Youtube](https://www.youtube.com/watch?v=Zxf1mnP5zcw&list=LL&index=4&t=1437s) tutorials were used to help with creating markers and info windows.
 
 ### Content
 
