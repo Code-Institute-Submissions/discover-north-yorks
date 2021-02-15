@@ -119,6 +119,7 @@ I felt the design of the about section was very plain and not appealing to the u
 1. [Font Awesome](https://fontawesome.com/) - was used to apply social media icons on the webpage footer and icons for the webpage 'contact details' in the contact section.
 1. [Hover.css](https://ianlunn.github.io/Hover/) - was used on my navigation bar links and social media links. This changes colour of the link when hovered over.
 1. [jQuery](https://jquery.com/) was used to stop the contact increasing fully on a larger screen and helped with marker interaction on the Google Maps API.
+1. [Autoprefixer](https://autoprefixer.github.io/) was used to add web prefixes to the css in order for it to render properly on all browsers.
 1. [Git](https://git-scm.com/) - was used for version control. It was through the terminal Gitpod in which code was committed and pushed to GitHub.
 1. [GitHub](https://github.com/) - was used to store the project pushed from Git.
 
@@ -161,6 +162,7 @@ This project was deployed to GitHub Pages by doing the following:
 * [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) was used to place the title in the middle of the screen on my **Splash page**.
 * [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the cards on the **Things to do page**.
 * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to apply a media query to the contact form to prevent its width increasing on larger device screens.
+* [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+IFD101+2017_T3/course/) was used to help create and link email.js to my contact-form.
 * [Stack Overflow](https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari/) was used to prevent the number on the contact section from hyperlinking on mobiles.
 * [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) was also used to keep each card at an equal height when changing screen size.
 * [Stack Overflow](https://stackoverflow.com/questions/4323848/how-to-handle-button-click-events-in-jquery) was used to help with targeting the Google Maps buttons.
