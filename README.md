@@ -165,6 +165,7 @@ This project was deployed to GitHub Pages by doing the following:
 * [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) was also used to keep each card at an equal height when changing screen size.
 * [Stack Overflow](https://stackoverflow.com/questions/4323848/how-to-handle-button-click-events-in-jquery) was used to help with targeting the Google Maps buttons.
 * [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/examples/marker-remove) and [Youtube](https://www.youtube.com/watch?v=Zxf1mnP5zcw&list=LL&index=4&t=1437s) tutorials were used to help with creating markers and info windows.
+* [CSS Tricks](https://css-tricks.com/how-to-make-an-unobtrusive-scroll-to-top-button/) was used to help with the creation and interactivity of the Back-to-top button on the **Home page**, **Things to do page** and the**Contact page**.
 
 ### Content
 
