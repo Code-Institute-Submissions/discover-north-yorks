@@ -149,15 +149,15 @@ div#map {
 }
 
 #back-top-btn {
-    padding: 20px;
+    margin-top: 20px;
     cursor: pointer;
 }
 
-#back-top-btn i:hover {
+#back-top-btn:hover {
     color: #f5b700;
 }
 
-#back-top-btn p {
+.back-top-p {
     color: #16262e;
     font-family: roboto, sans-serif;
     font-size: 18px;
