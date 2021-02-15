@@ -1,16 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Sansita+Swashed:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
+/* google-fonts importation */
 body {
     font-family: sansita swashed, roboto, sans-serif;
 }
 
-/* google-fonts importation */
-
 html, body {
     height: 100%;
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; /* adds a smooth scroll to site when a link is clicked */
 }
 
+
+/* splash page css */
+
+/* background image */
 .splash-background {
     background-image: url(../images/hardraw-waterfall.jpg);
     height: 100%;
@@ -36,6 +39,7 @@ html, body {
     text-align: center;
 }
 
+/* styling of button to enter mainsite from splash page */
 .mainsite-button {
     text-align: center;
 }
@@ -48,6 +52,7 @@ html, body {
     font-size: 22px;
 }
 
+/* navbar css */
 .navbar {
     box-shadow: 0 0 6px #16262e;
 }
@@ -60,8 +65,10 @@ html, body {
 
 .navbar-light .navbar-nav .nav-link:hover {
     color: #f5b700;
+    /* changes the navbar link colour when hovered over */
 }
 
+/* hero picture */
 #hero-picture {
     background-image: url(../images/yorkshire-dales.jpg);
     background-color: rgba(0, 0, 0, 0.5);
@@ -73,6 +80,7 @@ html, body {
     overflow: hidden;
 }
 
+/* jumbotron */
 .jumbotron {
     margin-bottom: 0;
     border-radius: 0%;
@@ -86,6 +94,7 @@ html, body {
     font-size: 26px;
 }
 
+/* CTA button to go to map */
 .jumbotron button {
     margin-top: 25px;
     background-color: #1aa735;
@@ -93,6 +102,7 @@ html, body {
     font-size: 22px;
 }
 
+/* about section background image */
 .about-section {
     background-image: url(../images/snow.jpg);
     background-color: rgba(255, 255, 255, 0.8);
@@ -105,16 +115,19 @@ html, body {
     padding-bottom: 50px;
 }
 
+/* about title */
 #about-title {
     padding-top: 30px;
     color: #16262e;
 }
 
+/* title line */
 .title-line {
     border-top: 5px solid #1aa735;
     width: 20%;
 }
 
+/* about section paragraphs */
 .about-para {
     padding: 10px;
     margin: 10px 0 30px 0;
@@ -124,14 +137,16 @@ html, body {
 }
 
 .about-para b {
-    color: #1aa735;
+    color: #1aa735; /* targets the bold elements of about section paragraphs */
 }
 
+/* explore title */
 #explore-title {
     padding-top: 30px;
     color: #16262e;
 }
 
+/* map buttons */
 .map-buttons button {
     margin: 10px -10px 10px -10px;
     font-size: 25px;
@@ -140,14 +155,16 @@ html, body {
 }
 
 .map-buttons i {
-    margin-left: 10px;
+    margin-left: 10px; /* targets icons in the map buttons */
 }
 
+/* Google Map API */
 div#map {
     min-height: 500px;
     margin: 10px 0 10px;
 }
 
+/* Back to top button styling */
 #back-top-btn {
     margin-top: 20px;
     cursor: pointer;
@@ -155,25 +172,29 @@ div#map {
 
 #back-top-btn:hover {
     color: #f5b700;
+    /* changes the colour of the back to top icon when hovered over */
 }
 
+/* back to top paragraph */
 .back-top-p {
     color: #16262e;
     font-family: roboto, sans-serif;
     font-size: 18px;
 }
 
+/* footer styling */
 footer {
     background-color: #1aa735;
     padding-top: 20px;
 }
 
+/* social links content styling */
 .social-p {
     color: #ffffff;
     text-shadow: 2px 2px #12854a;
 }
 
-.social-icons i {
+.social-icons i /* targets social link icons */{
     color: #ffffff;
     text-shadow: 2px 2px #12854a;
     padding-bottom: 10px;
@@ -183,28 +204,40 @@ footer {
 .social-icons i:hover {
     color: #f5b700;
     border: #f5b700;
+    /* changes colour of social links when hovered over */
 }
 
+/* title of webpage and copyright info text styling */
 .footer-p {
     color: #ffffff;
     font-size: 20px;
     text-shadow: 2px 2px #12854a;
 }
 
+
+/* things to do page css */
+
+/* titles of each category */
 .activities-title {
     padding-top: 20px;
 }
 
+/* styling of each card */
 .card {
     /* Credit: The below box-shadow was taken from: https://getcssscan.com/css-box-shadow-examples */
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
     margin-bottom: 20px;
 }
 
+/* font-size of each card paragraph */
 .card-text {
     font-size: 20px;
 }
 
+
+/* contact page css */
+
+/* contact hero image */
 .contact-background {
     background-image: url(../images/yorkshire-dales.jpg);
     background-color: rgba(0, 0, 0, 0.5);
@@ -220,30 +253,35 @@ footer {
     color: #ffffff;
 }
 
+/* contact page title */
 .contact-heading {
     padding-top: 100px;
 }
 
+/* site number, email address and site address */
 .website-info {
     padding-top: 50px;
     font-size: 24px;
 }
 
-.website-info i {
+.website-info i /* targets social link icons */{
     padding: 10px;
 }
 
+/* contact paragraph */
 .contact-p {
     margin-top: 20px;
     font-size: 26px;
     color: #16262e;
 }
 
+/* styles boxes of first name, last name and email address */
 .contact-form input {
     border: 2px solid #1aa735;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
+/* styles message box */
 .contact-form textarea {
     border: 2px solid #1aa735;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -253,6 +291,7 @@ footer {
     padding-top: 15px;
 }
 
+/* submit button styling */
 .contact-form button[type="submit"] {
     margin: 25px 0 40px;
     color: #ffffff;
