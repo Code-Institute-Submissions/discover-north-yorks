@@ -71,21 +71,29 @@ The logo was selected and edited on [Flaticon](https://www.flaticon.com/). The l
 
 ## Features:
 
+
+
 ## Issues Overcome:
 
-* I had an issue with the cards keeping to an equal height on the **Things to do page** when changing screen size as shown in the image below:
+#### Issue 1:
+
+I had an issue with the cards keeping to an equal height on the **Things to do page** when changing screen size as shown in the image below:
 
 ![box-bug](assets/documentation/box-bug.png)
 
 I searched for a solution to the problem on [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) and found that `d flex align-items-stretch` kept the cards equal heights when changing screen size regardless of the volume of content.
 
-* I thought the boxes on the **Things to do page** looked very long on medium sized screens such as iPads:
+#### Issue 2:
+
+I thought the boxes on the **Things to do page** looked very long on medium sized screens such as iPads:
 
 ![layout-bug](assets/documentation/layout-bug.png)
 
 I corrected this by changing `col-md-4` to `col-lg-4` so the UX wasn't jeopardised on medium sized screens.
 
-* I had trouble with the design process of the **Home page** and specifically the about section:
+#### Issue 3:
+
+I had trouble with the design process of the **Home page** and specifically the about section:
 
 ![about-change](assets/documentation/about-change.png)
 
