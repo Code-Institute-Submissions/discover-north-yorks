@@ -31,6 +31,8 @@ html, body {
     position: fixed;
     top: 50%;
     left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 } 
 
@@ -54,6 +56,7 @@ html, body {
 
 /* navbar css */
 .navbar {
+    -webkit-box-shadow: 0 0 6px #16262e;
     box-shadow: 0 0 6px #16262e;
 }
 
@@ -225,6 +228,7 @@ footer {
 /* styling of each card */
 .card {
     /* Credit: The below box-shadow was taken from: https://getcssscan.com/css-box-shadow-examples */
+    -webkit-box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
     margin-bottom: 20px;
 }
@@ -278,12 +282,14 @@ footer {
 /* styles boxes of first name, last name and email address */
 .contact-form input {
     border: 2px solid #1aa735;
+    -webkit-box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 /* styles message box */
 .contact-form textarea {
     border: 2px solid #1aa735;
+    -webkit-box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
