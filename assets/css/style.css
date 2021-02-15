@@ -150,6 +150,7 @@ div#map {
 
 #back-top-btn {
     padding: 20px;
+    cursor: pointer;
 }
 
 #back-top-btn p {
