@@ -127,10 +127,6 @@ html, body {
     color: #1aa735;
 }
 
-.explore-section {
-    margin-bottom: 20px;
-}
-
 #explore-title {
     padding-top: 30px;
     color: #16262e;
@@ -150,6 +146,16 @@ html, body {
 div#map {
     min-height: 500px;
     margin: 10px 0 10px;
+}
+
+#back-top-btn {
+    padding: 20px;
+}
+
+#back-top-btn p {
+    color: #16262e;
+    font-family: roboto, sans-serif;
+    font-size: 18px;
 }
 
 footer {
