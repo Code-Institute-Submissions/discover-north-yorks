@@ -119,6 +119,8 @@ I felt the design of the about section was very plain and not appealing to the u
 1. [Font Awesome](https://fontawesome.com/) - was used to apply social media icons on the webpage footer and icons for the webpage 'contact details' in the contact section.
 1. [Hover.css](https://ianlunn.github.io/Hover/) - was used on my navigation bar links and social media links. This changes colour of the link when hovered over.
 1. [jQuery](https://jquery.com/) was used to stop the contact increasing fully on a larger screen and helped with marker interaction on the Google Maps API.
+1. [EmailJS](https://www.emailjs.com/) was used to establish a link between the contact form and an email address.
+1. [Google Maps API](https://developers.google.com/maps/documentation/javascript/overview) was used to input an interactive map on the webpage.
 1. [Autoprefixer](https://autoprefixer.github.io/) was used to add web prefixes to the css in order for it to render properly on all browsers.
 1. [Git](https://git-scm.com/) - was used for version control. It was through the terminal Gitpod in which code was committed and pushed to GitHub.
 1. [GitHub](https://github.com/) - was used to store the project pushed from Git.
@@ -167,7 +169,7 @@ This project was deployed to GitHub Pages by doing the following:
 * [Stack Overflow](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) was also used to keep each card at an equal height when changing screen size.
 * [Stack Overflow](https://stackoverflow.com/questions/4323848/how-to-handle-button-click-events-in-jquery) was used to help with targeting the Google Maps buttons.
 * [Google Maps Platform](https://developers.google.com/maps/documentation/javascript/examples/marker-remove) and [Youtube](https://www.youtube.com/watch?v=Zxf1mnP5zcw&list=LL&index=4&t=1437s) tutorials were used to help with creating markers and info windows.
-* [CSS Tricks](https://css-tricks.com/how-to-make-an-unobtrusive-scroll-to-top-button/) was used to help with the creation and interactivity of the Back-to-top button on the **Home page**, **Things to do page** and the**Contact page**.
+* [CSS Tricks](https://css-tricks.com/how-to-make-an-unobtrusive-scroll-to-top-button/) was used to help with the creation and interactivity of the Back-to-top button on the **Home page**, **Things to do page** and the **Contact page**.
 
 ### Content
 
