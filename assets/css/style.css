@@ -162,15 +162,6 @@ html, body {
     margin-left: 5px; /* targets icons in the map buttons */
 }
 
-/* media query created to make map buttons smaller on small device screens */
-@media(max-width: 768px) {
-    .map-buttons button {
-        margin: 5px 0px 5px 0px;
-        font-size: 18px;
-        width: 150px;
-    }
-}
-
 /* Google Map API */
 div#map {
     min-height: 500px;
