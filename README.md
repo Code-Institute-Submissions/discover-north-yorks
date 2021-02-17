@@ -13,18 +13,15 @@ By also inputting a contact form on the website, visitors can contact the site w
   * ### User Stories
      
     * #### First Time Visitor Goals
-    
       * As a First Time Visitor, I want to understand the purpose of the website and view what North Yorkshire has to offer.
       * As a First Time Visitor, I want to navigate throughout the website easily to find content.
       * As a First Time Visitor, I would like to be able to view the map and see where and what types of activities there are presented.
 
     * #### Returning Visitor Goals
-
       * As a Returning Visitor, I would like to further educate myself on each location or the location I am interested in visiting on the **Things to do page**.
       * As a Returning Visitor, I would like to contact the administrators with any general queries or questions about visiting North Yorkshire. 
 
     * #### Frequent User Goals
-
       * As a Frequent User, I would like to see if there has been any locations added to the website.
       * As a Frequent User, I would like to view the different social media accounts to either view, look for new updates or potentially interact with other people involved in the public forums.
       * As a Frequent User, I would like to revert back to the map to plan a journey or use it for map-reading whilst travelling in North Yorkshire.
@@ -112,6 +109,7 @@ There is also a submit button for the user below the form too.
 The navigation bar takes the user to the **Home page**, **Things to do page** and **Contact page**. The logo on the navigation bar also takes the user to the **Home page**.
 I have placed a 'Back to top' button on each page to ensure the user doesn't have to manually scroll to the top when they reach the bottom of the page. I have used a mountain icon to fit the hilly landscape that North Yorkshire possesses.
 The button was established through the use of Javascript and uses a smooth scroll to keep the user oriented when returning to the top of the page.
+
 The footer on each page presents four social media icons in which the user can interact with. The icons take the user to their respective social media site. They open up on a new tab so the user doesn't lose this website.
 I have also placed the title of the webpage and copyright information on the footer.
 The navigation bar links, back to top button and social media icons all turn to Orange Yellow `#F5B700` when hovered over by the user.
@@ -169,6 +167,52 @@ I felt the design of the about section was very plain and not appealing to the u
 1. [GitHub](https://github.com/) - was used to store the project pushed from Git.
 
 ## Testing:
+
+* ### Testing of User Stories in UX section:
+     
+  * #### First Time Visitor Goals
+    
+    * As a First Time Visitor, I want to understand the purpose of the website and view what North Yorkshire has to offer.
+
+      1. The user is met with a simple **Splash page** and then upon entering the site to the **Home page**, they are met with a clear navigation bar giving the user an option of three pages.
+      1. The about section details the purpose of the webpage by persuading the user to visit North Yorkshire and informing them about the county.
+
+    * As a First Time Visitor, I want to navigate throughout the website easily to find content.
+
+      1. The user is able to navigate easily around the website with the use of the navigation bar. The logo also contains a link back to the **Home Page**.
+
+    * As a First Time Visitor, I would like to be able to view the map and see where and what types of activities there are presented.
+
+      1. Upon entering the website, the user is met with a CTA button which takes the user to the map. 
+      The user can easily choose between four categories with the use of buttons, which show their respective markers on the map.
+      1. An info window for each marker appears for each location and details the name, title and a link to its **Things to do page** card.
+
+  * #### Returning Visitor Goals
+
+    * As a Returning Visitor, I would like to further educate myself on each location or the location I am interested in visiting on the **Things to do page**.
+
+      1. The **Things to do page** is easily accessible through the navigation bar and gives the user information on each location demonstrated on the map.
+      1. Each card on the page presents an appealing and relevant image to its location as well as useful information on each place to further intrigue the user to visit North Yorkshire.
+
+    * As a Returning Visitor, I would like to contact the administrators with any general queries or questions about visiting North Yorkshire.
+
+      1. The user can easily access the contact page through the navigation bar and can fill the contact form and submit it to its linked EmailJS account.
+      1. There is also a phone number and email address deployed on the **Contact page** to offer the user another form of contact.
+
+  * #### Frequent User Goals
+
+    * As a Frequent User, I would like to see if there has been any locations added to the website.
+
+      1. The user can return to the website to see of any locations added to the map and **Things to do page**.
+
+    * As a Frequent User, I would like to view the different social media accounts to either view, look for new updates or potentially interact with other people involved in the public forums.
+
+      1. The user can access social media accounts displayed in the footer. The links take the user to a new page to view the social media accounts whilst retaining this website on the previous tab.
+
+    * As a Frequent User, I would like to revert back to the map to plan a journey or use it for map-reading whilst travelling in North Yorkshire.
+
+      1. The user can return to the site frequently to look at the map and seek its location easily from the use of the markers and its respective info window. 
+      This can either be to plan a journey or visit whilst in North Yorkshire.
 
 ## Deployment:
 
