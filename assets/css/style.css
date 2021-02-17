@@ -74,7 +74,7 @@ html, body {
 /* hero picture */
 #hero-picture {
     background-image: url(../images/yorkshire-dales.jpg);
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.2);
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
@@ -86,14 +86,15 @@ html, body {
 /* jumbotron */
 .jumbotron {
     margin-bottom: 0;
-    border-radius: 0%;
     padding-top: 100px;
     text-align: center;
     color: #ffffff;
+    text-shadow: 0 0 4px #16262e;
 }
 
-.jumbotron p {
-    margin-top: 10px;
+.jumbotron h5 {
+    margin-top: 15px;
+    font-weight: 500;
     font-size: 26px;
 }
 
@@ -253,7 +254,7 @@ footer {
 /* contact hero image */
 .contact-background {
     background-image: url(../images/yorkshire-dales.jpg);
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.2);
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
@@ -269,16 +270,19 @@ footer {
 /* contact page title */
 .contact-heading {
     padding-top: 100px;
+    text-shadow: 0 0 4px #16262e;
 }
 
 /* site number, email address and site address */
 .website-info {
     padding-top: 50px;
     font-size: 24px;
+    text-shadow: 0 0 4px #16262e;
 }
 
 .website-info i /* targets social link icons */{
     padding: 10px;
+    text-shadow: 0 0 4px #16262e;
 }
 
 /* contact paragraph */
