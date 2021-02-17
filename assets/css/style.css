@@ -177,6 +177,12 @@ div#map {
     margin: 10px 0 10px;
 }
 
+@media(max-width: 768px) {
+    div#map {
+        min-height: 360px;
+    }
+}
+
 /* Back to top button styling */
 #back-top-btn {
     margin-top: 20px;
