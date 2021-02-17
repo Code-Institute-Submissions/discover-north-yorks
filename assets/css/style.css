@@ -177,6 +177,7 @@ div#map {
     margin: 10px 0 10px;
 }
 
+/* makes Google Map height smaller on small screens */
 @media(max-width: 768px) {
     div#map {
         min-height: 360px;

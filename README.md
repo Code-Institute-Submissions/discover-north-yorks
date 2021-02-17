@@ -221,7 +221,19 @@ I have tested the website on the following internet browsers:
 * Google Chrome
 * Microsoft Edge
 * Safari
+* Internet Explorer
 
+I have tested the website on the following devices:
+
+* ASUS Zenbook 14 UX434
+* iPhone 7
+* iPhone X
+* iPad
+* Huawei P Smart
+* Acer Laptop
+
+* Throughout testing my website on all these devices, the internal links all worked correctly.
+* All external links worked correcty and opened up on a new tab as expected whilst retaining the website on the previous tab.
 
 
 ## Deployment:
@@ -259,7 +271,7 @@ This project was deployed to GitHub Pages by doing the following:
 
 * [Snazzy-Maps](https://snazzymaps.com/style/47/nature) was used to style the google-maps API.
 * [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/) was used to place the title in the middle of the screen on my **Splash page**.
-* [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the cards on the **Things to do page**.
+* [CSS Scan](https://getcssscan.com/css-box-shadow-examples) was used to choose and apply a box-shadow to the cards on the **Things to do page** and the contact form boxes.
 * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to apply a media query to the contact form to prevent its width increasing on larger device screens.
 * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+IFD101+2017_T3/course/) was used to help create and link email.js to my contact-form.
 * [Stack Overflow](https://stackoverflow.com/questions/226131/how-to-disable-phone-number-linking-in-mobile-safari/) was used to prevent the number on the contact section from hyperlinking on mobiles.
