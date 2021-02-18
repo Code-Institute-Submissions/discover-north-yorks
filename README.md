@@ -222,6 +222,7 @@ I felt the design of the about section was very plain and not appealing to the u
 * Microsoft Edge
 * Safari
 * Internet Explorer
+* Firefox
 
 #### I have tested the website on the following devices:
 
@@ -234,21 +235,48 @@ I felt the design of the about section was very plain and not appealing to the u
 
 #### Testing process:
 
+The below table represents each aspect I focused on testing and the device type tested on:
+
+##### Table Key:
+
+&check; - *Works*, &cross; - *Doesn't Work*.
+
+
 | Item tested | iPhone X | iPhone 7 | iPad | Huawei P30 lite | Acer Laptop | Asus Zenbook 14 UX434 |
 | ----------- | -------- | -------- | ---- | --------------- | ----------- | --------------------- |
 | Splash page Enter button   | &check; | &check; | &check; | &check; | &check; | &check; |
 | Navbar links               | &check; | &check; | &check; | &check; | &check; | &check; |
-| Home Page CTA              | &check; | &check; | &check; | &check; | &check; | &check; |
+| Home page CTA              | &check; | &check; | &check; | &check; | &check; | &check; |
 | Smooth scroll behaviour    | &cross; | &cross; | &cross; | &check; | &check; | &check; |
 | Map buttons                | &check; | &check; | &check; | &check; | &check; | &check; |
 | Map load                   | &check; | &check; | &check; | &check; | &check; | Not Always |
-| Map Markers                | &check; | &check; | &check; | &check; | &check; | &check; |
+| Map markers                | &check; | &check; | &check; | &check; | &check; | &check; |
 | Social links               | &check; | &check; | &check; | &check; | &check; | &check; |
 | Contact form               | &check; | &check; | &check; | &check; | &check; | &check; |
 | Contact form submit button | &check; | &check; | &check; | &check; | &check; | &check; |
 | Contact form modal         | &check; | &check; | &check; | &check; | &check; | &check; |
 | Back to top button         | &check; | &check; | &check; | &check; | &check; | &check; |
 | Info Windows and links     | &check; | &check; | &check; | &check; | &check; | &check; |
+| Hover colours              | &check; | &check; | &check; | &check; | &check; | &check; |
+ 
+* The **Splash page** 'Enter' button took me straight to the **Home page** of the website with no problems on any device.
+* The Navbar links as well as the logo, successfully took me to the correct page as intended.
+* The **Home page** CTA 'Explore' button takes the user to the map as intended.
+* The `scroll-behaviour: smooth;` fails to work on Apple products as shown above. It failed to work on Firefox, Safari and Google Chrome on my iPhone 7.
+* The Map buttons worked correctly and showed the markers everytime they were clicked on, as well as removing them when a new button was clicked on.
+* On my Asus Zenbook, I had noticed that when visiting my website frequently, I realised the map didn't always appear. 
+  This is a minor problem, as the map always appears when the page is refreshed.
+* The Map markers appeared in the correct on each device as expected.
+* The Social links all work correctly on every device. They were opening on a new tab every time whilst keeping the website open on the previous tab.
+* The Contact form was tested on all devices and the use of `required` was successful on each input field as a message displayed every time it was required too.
+* The Contact form successfully submitted the message to my EmailJS every time tested. The page never refreshed and always cleared on form submission.
+* The Contact form once submitted successfully displayed the modal. The modal can be closed by either selecting 'Okay' or the 'x' button in the top right corner of the modal.
+* The Back to top button worked properly on every page.
+* The Info Windows were all individually tested and each one opened up properly. Each Info Window has a link that takes the user to its appropriate card on the **Things to do page** and takes the user to the correct card.
+* The Back to top button, Navbar links and Social links were all tested for their respective colour changes on hover. They all worked without problems.
+
+
+
 
 
 ### Fixed bugs
