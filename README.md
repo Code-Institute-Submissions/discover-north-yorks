@@ -234,8 +234,22 @@ I felt the design of the about section was very plain and not appealing to the u
 
 #### Testing process:
 
-Throughout testing my website on all these devices, all internal and external links worked correctly.
-All the external links opened up on a new tab as expected whilst retaining the website on the previous tab.
+| Item tested | iPhone X | iPhone 7 | iPad | Huawei P30 lite | Acer Laptop | Asus Zenbook 14 UX434 |
+| ----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- | ----------- |
+| Splash page Enter button   | &check; | &check; | &check; | &check; | &check; | &check; |
+| Navbar links               | &check; | &check; | &check; | &check; | &check; | &check; |
+| Home Page CTA              | &check; | &check; | &check; | &check; | &check; | &check; |
+| Smooth scroll behaviour    | &cross; | &cross; | &cross; | &check; | &check; | &check; |
+| Map buttons                | &check; | &check; | &check; | &check; | &check; | &check; |
+| Map load                   | &check; | &check; | &check; | &check; | &check; | Not Always |
+| Map Markers                | &check; | &check; | &check; | &check; | &check; | &check; |
+| Social links               | &check; | &check; | &check; | &check; | &check; | &check; |
+| Contact form               | &check; | &check; | &check; | &check; | &check; | &check; |
+| Contact form submit button | &check; | &check; | &check; | &check; | &check; | &check; |
+| Contact form modal         | &check; | &check; | &check; | &check; | &check; | &check; |
+| Back to top button         | &check; | &check; | &check; | &check; | &check; | &check; |
+| Info Windows and links     | &check; | &check; | &check; | &check; | &check; | &check; |
+
 
 #### Fixed bugs
 
