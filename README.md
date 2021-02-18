@@ -235,7 +235,7 @@ I felt the design of the about section was very plain and not appealing to the u
 #### Testing process:
 
 | Item tested | iPhone X | iPhone 7 | iPad | Huawei P30 lite | Acer Laptop | Asus Zenbook 14 UX434 |
-| ----------- | ----------- |----------- | ----------- |----------- | ----------- |----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- |----------- | ----------- | ----------- | ----------- |
 | Splash page Enter button   | &check; | &check; | &check; | &check; | &check; | &check; |
 | Navbar links               | &check; | &check; | &check; | &check; | &check; | &check; |
 | Home Page CTA              | &check; | &check; | &check; | &check; | &check; | &check; |
