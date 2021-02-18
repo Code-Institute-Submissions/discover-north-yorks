@@ -2,6 +2,8 @@
 
 ## Code Institute - Milestone Project 2
 
+![Website Mockup](assets/mockup/site-mockup.png)
+
 [Click here to view my website](https://paulfrankling.github.io/discover-north-yorks/)
 
 This website has been designed to encourage users to visit the county of North Yorkshire. Discover North Yorkshire is targeted at tourists and vacationers, as well as residents of the county. 
@@ -163,6 +165,7 @@ I felt the design of the about section was very plain and not appealing to the u
 1. [EmailJS](https://www.emailjs.com/) was used to establish a link between the contact form and an email address.
 1. [Google Maps API](https://developers.google.com/maps/documentation/javascript/overview) was used to input an interactive map on the webpage.
 1. [Autoprefixer](https://autoprefixer.github.io/) was used to add web prefixes to the css in order for it to render properly on all browsers.
+1. [Am I Responsive?](http://ami.responsivedesign.is/) was used to create a mockup of the website for the README.md.
 1. [Git](https://git-scm.com/) - was used for version control. It was through the terminal Gitpod in which code was committed and pushed to GitHub.
 1. [GitHub](https://github.com/) - was used to store the project pushed from Git.
 
@@ -274,10 +277,6 @@ The below table represents each aspect I focused on testing and the device type 
 * The Back to top button worked properly on every page.
 * The Info Windows were all individually tested and each one opened up properly. Each Info Window has a link that takes the user to its appropriate card on the **Things to do page** and takes the user to the correct card.
 * The Back to top button, Navbar links and Social links were all tested for their respective colour changes on hover. They all worked without problems.
-
-
-
-
 
 ### Fixed bugs
 
