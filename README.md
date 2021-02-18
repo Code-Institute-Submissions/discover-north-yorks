@@ -216,14 +216,14 @@ I felt the design of the about section was very plain and not appealing to the u
 
 ### Further Testing
 
-I have tested the website on the following internet browsers:
+#### I have tested the website on the following internet browsers:
 
 * Google Chrome
 * Microsoft Edge
 * Safari
 * Internet Explorer
 
-I have tested the website on the following devices:
+#### I have tested the website on the following devices:
 
 * ASUS Zenbook 14 UX434
 * iPhone 7
@@ -232,9 +232,20 @@ I have tested the website on the following devices:
 * Huawei P Smart
 * Acer Laptop
 
-* Throughout testing my website on all these devices, the internal links all worked correctly.
-* All external links worked correcty and opened up on a new tab as expected whilst retaining the website on the previous tab.
+#### Testing process:
 
+Throughout testing my website on all these devices, all internal and external links worked correctly.
+All the external links opened up on a new tab as expected whilst retaining the website on the previous tab.
+
+#### Fixed bugs
+
+At the beginning of the testing process, I quickly noticed that the interactive map buttons weren't on the same screen on small devices.
+This meant that the user would have to keep scrolling up and down between interacting with the map and its buttons, which I felt was bad UX.
+
+![button-bug](assets/testing/button-bug.png)
+
+I used a media query to make the map buttons font-size smaller and push the buttons closer together on small device screens.
+I also used a media query to target the map and make its height smaller on small device screens. This made it much easier for the user to interact between.
 
 ## Deployment:
 
