@@ -12,10 +12,14 @@ function sendMail(contactForm) {
     .then(
         function(response) {
             console.log("SUCCESS", response);
+            openModal();
         },
         function(error) {
             console.log("FAILED", error);
         }
     );
-    return false;
+
+    $('#form-reset')[0].reset(); // Resets form fields on submission
+
+    return false; // Stops the page from refreshing
 }

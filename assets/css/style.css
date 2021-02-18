@@ -319,7 +319,7 @@ footer {
 
 /* submit button styling */
 .contact-form button[type="submit"] {
-    margin: 25px 0 40px;
+    margin: 20px 0 20px;
     color: #ffffff;
     background-color: #1aa735;
     font-family: roboto, sans-serif;
