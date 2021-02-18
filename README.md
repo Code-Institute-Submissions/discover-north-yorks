@@ -235,7 +235,7 @@ I felt the design of the about section was very plain and not appealing to the u
 #### Testing process:
 
 | Item tested | iPhone X | iPhone 7 | iPad | Huawei P30 lite | Acer Laptop | Asus Zenbook 14 UX434 |
-| ----------- | ----------- | ----------- | ----------- |----------- | ----------- | ----------- | ----------- |
+| ----------- | -------- | -------- | ---- | --------------- | ----------- | --------------------- |
 | Splash page Enter button   | &check; | &check; | &check; | &check; | &check; | &check; |
 | Navbar links               | &check; | &check; | &check; | &check; | &check; | &check; |
 | Home Page CTA              | &check; | &check; | &check; | &check; | &check; | &check; |
@@ -251,7 +251,7 @@ I felt the design of the about section was very plain and not appealing to the u
 | Info Windows and links     | &check; | &check; | &check; | &check; | &check; | &check; |
 
 
-#### Fixed bugs
+### Fixed bugs
 
 At the beginning of the testing process, I quickly noticed that the interactive map buttons weren't on the same screen on small devices.
 This meant that the user would have to keep scrolling up and down between interacting with the map and its buttons, which I felt was bad UX.
