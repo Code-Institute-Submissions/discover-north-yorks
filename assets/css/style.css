@@ -337,3 +337,14 @@ footer {
         max-width: 50%;
     }
 }
+
+/* modal font*/
+.modal-content {
+    font-family: roboto, sans-serif;
+}
+
+/* modal message positioning */
+.modal-body {
+    text-align: center;
+    padding: 20px;
+}
