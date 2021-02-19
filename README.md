@@ -238,6 +238,8 @@ I felt the design of the about section was very plain and not appealing to the u
 
 #### Testing process:
 
+At the beginning, I asked friends and family members to test my website on their device as well as ask for their opinion on any issues.
+
 The below table represents each aspect I focused on testing and the device type tested on:
 
 ##### Table Key:
@@ -280,13 +282,29 @@ The below table represents each aspect I focused on testing and the device type 
 
 ### Fixed bugs
 
-At the beginning of the testing process, I quickly noticed that the interactive map buttons weren't on the same screen on small devices.
+* At the beginning of the testing process, I quickly noticed that the interactive map buttons weren't on the same screen on small devices.
 This meant that the user would have to keep scrolling up and down between interacting with the map and its buttons, which I felt was bad UX.
 
 ![button-bug](assets/testing/button-bug.png)
 
 I used a media query to make the map buttons font-size smaller and push the buttons closer together on small device screens.
 I also used a media query to target the map and make its height smaller on small device screens. This made it much easier for the user to interact between.
+
+* I changed the map button layout on medium sized screens as having two buttons to each side didn't look as good as laying the four buttons in a row.
+
+* One bug that kept occuring was EmailJS wasn't always sending the email to my account when the page refreshed.
+I stopped the contact form from refreshing and the email was always being sent properly. But the problem I had was that the form fields didn't clear on submission of the form.
+I eventually added jQuery `$('#form-reset')[0].reset();` in order for the form to clear when submitted without refreshing the page.
+
+* Another problem I kept having with the form, was the modal would appear at any point I submitted the contact form. 
+I was testing the form to make sure the required message was appearing and the modal was appearing if only the first name field was filled in. 
+I added a Bootstrap modal to HTML and added jQuery `$('#mymodal').modal('show')` in order for it to pop up when the form was submitted successfully.
+
+### Known Bugs
+
+As mentioned before, the `scroll-behaviour: smooth;` didn't work on the apple devices that I tested the website on.
+
+The map also doesn't appear on my ASUS Zenbook sometimes and the page needs refreshing in order for it to appear.
 
 ## Deployment:
 
