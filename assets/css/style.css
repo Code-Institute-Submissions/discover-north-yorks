@@ -99,11 +99,12 @@ html, body {
 }
 
 /* CTA button to go to map */
-.jumbotron button {
+.jumbotron a {
     margin-top: 25px;
     background-color: #1aa735;
     font-family: roboto, sans-serif;
     font-size: 22px;
+    text-shadow: none;
 }
 
 /* about section background image */
