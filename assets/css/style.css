@@ -74,7 +74,7 @@ html, body {
 /* hero picture */
 #hero-picture {
     background-image: url(../images/yorkshire-dales.jpg);
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
@@ -261,7 +261,7 @@ footer {
 /* contact hero image */
 .contact-background {
     background-image: url(../images/yorkshire-dales.jpg);
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
