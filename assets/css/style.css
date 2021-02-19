@@ -46,7 +46,7 @@ html, body {
     text-align: center;
 }
 
-.mainsite-button button {
+.mainsite-button a {
     color: #ffffff;
     background-color: #1aa735;
     margin-top: 10px;
