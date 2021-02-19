@@ -24,7 +24,7 @@ By also inputting a contact form on the website, visitors can contact the site w
       * As a Returning Visitor, I would like to contact the administrators with any general queries or questions about visiting North Yorkshire. 
 
     * #### Frequent User Goals
-      * As a Frequent User, I would like to see if there has been any locations added to the website.
+      * As a Frequent User, I would like to see if any new locations have been added to the website.
       * As a Frequent User, I would like to view the different social media accounts to either view, look for new updates or potentially interact with other people involved in the public forums.
       * As a Frequent User, I would like to revert back to the map to plan a journey or use it for map-reading whilst travelling in North Yorkshire.
 
@@ -84,25 +84,25 @@ There is also a CTA button to enter the website.
 
 ### Home page
 
-On the home page, the user met with a responsive navigation bar with the website logo to the left, which is an adapted version of the White Rose of York.
+On the home page, the user is met with a responsive navigation bar with the website logo to the left, which is an adapted version of the White Rose of York.
 Just below that is a hero image and jumbotron with the website title and slogan. There is also a CTA button that takes the user straight to the map. Below that is the about section, which gives a brief overview of North Yorkshire.
 Between the hero image, jumbotron and about section; I wanted to make the idea of visiting North Yorkshire very appealing.
 
 #### Google Map API
 
-The map added is used to demonstrate to the user of 12 must visit locations in North Yorkshire. I have split the locations into four categories; Attractions, Museums, Sites and Walks.
+The map added is used to demonstrate 12 must visit locations in North Yorkshire to the user. I have split the locations into four categories; Attractions, Museums, Sites and Walks.
 I gave each category three locations and manually added markers for each location in Javascript. Each marker has an info window which shows when the user clicks the marker and they all present a link to their respective card in the **Things to do page**.
 The buttons above the map have been linked to the map with the use of jQuery. The markers show when a map button is clicked and removes the previous markers when a different one is clicked. 
 I styled the map with [Snazzy-Maps](https://snazzymaps.com/style/47/nature) to try fit with colour scheme of the predominant green and white.
 
 ### Things to do page
 
-This page presents a card for each location and the cards shows an image, title and description. Each image on this page was shortened to 500 x 350 pixels with the use of [Pine Tools](https://pinetools.com/) to make each card image the same size.
+This page presents a card for each location and the cards show an image, title and description. Each image on this page was shortened to 500 x 350 pixels with the use of [Pine Tools](https://pinetools.com/) to make each card image the same size.
 This page is used as an information page for the user to get a better understanding of the location behind the marker on the **Home page** map.
 
 ### Contact page
 
-This page was designed to give the user a chance to contact the user with any questions. This page presents the same hero image as the **Home page** but instead of a jumbotron, presents the websites contact details (Which are fake for the purpose of the project).
+This page was designed to give the user chance to contact the administration with any questions. This page presents the same hero image as the **Home page** but instead of a jumbotron, presents the websites contact details (Which are fake for the purpose of the project).
 The contact form is linked to an email address through the use of [EmailJS](https://www.emailjs.com/). The contact form has an added Media Query in order to retain a sensible width on larger screen sizes. The use of `required` tells the user to input details correctly in each field where applicable.
 There is also a submit button for the user below the form too.
 
@@ -204,9 +204,9 @@ I felt the design of the about section was very plain and not appealing to the u
 
   * #### Frequent User Goals
 
-    * As a Frequent User, I would like to see if there has been any locations added to the website.
+    * As a Frequent User, I would like to see if any new locations have been added to the website.
 
-      1. The user can return to the website to see of any locations added to the map and **Things to do page**.
+      1. The user can return to the website to see if any locations have been added to the map and **Things to do page**.
 
     * As a Frequent User, I would like to view the different social media accounts to either view, look for new updates or potentially interact with other people involved in the public forums.
 
