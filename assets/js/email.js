@@ -12,7 +12,7 @@ function sendMail(contactForm) {
     .then(
         function(response) {
             console.log("SUCCESS", response);
-            $('#mymodal').modal('show')  // Opens the modal on submission of all completed form fields
+            $('#mymodal').modal('show');  // Opens the modal on submission of all completed form fields
             $('#form-reset')[0].reset(); // Resets form fields on submission
         },
         function(error) {
