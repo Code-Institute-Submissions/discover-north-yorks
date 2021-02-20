@@ -1,9 +1,9 @@
 // Credit: Back to top button help from: https://css-tricks.com/how-to-make-an-unobtrusive-scroll-to-top-button/
 
 // Back to top button:
-var backToTop = document.getElementById("back-top-btn");
+let backToTop = document.getElementById("back-top-btn");
 
-var pageTop = document.documentElement;
+let pageTop = document.documentElement;
 
 function scrollToTop() {
     pageTop.scrollTo({
