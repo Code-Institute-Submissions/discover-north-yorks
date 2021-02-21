@@ -288,6 +288,13 @@ The below table represents each aspect I focused on testing and the device type 
 
 ### Fixed bugs
 
+* In the validation process, the 'Enter' and 'Explore' buttons on the **Splash page** and **Home page** were producing an error that said then'button' element
+ couldn't be embedded in an 'a' element. I found the solution on [Stack Overflow](https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link),
+ which showed I needed to remove the 'button' element and add it to the class instead like this `<a href="home.html" class="button btn btn-success btn-lg">Enter</a>`. 
+ Once I changed the buttons, I just needed to change the elements targeted in css and it removed the error and worked exactly as I wanted.
+
+  * Another error found in the HTML was that the `<script>` tags were outside of the `<body>` tags. I was able to easily add them just above the closing `</body>` and the error was resolved.
+
 * At the beginning of the testing process, I quickly noticed that the interactive map buttons weren't on the same screen on small devices.
 This meant that the user would have to keep scrolling up and down between interacting with the map and its buttons, which I felt was bad UX.
 
