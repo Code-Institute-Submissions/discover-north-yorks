@@ -125,8 +125,8 @@ function initMap() {
         // Pushes Markers into mapMarkers array:
         mapMarkers.push(marker);
 
-    // Info Window for Markers:
-    let infoWindow = new google.maps.InfoWindow();
+        // Info Window for Markers:
+        let infoWindow = new google.maps.InfoWindow();
 
         // Opens Info Window on click:
         marker.addListener("click", () => {
@@ -135,16 +135,16 @@ function initMap() {
         });
     }
 
-    // Shows Markers on the map:
+        // Shows Markers on the map:
         function showMarkers(marker) {
         for (let i=0; i < marker.length; i++) {
             addMarker(marker[i]);
         }
     }
     
-    // Removes Markers:
+        // Removes Markers:
         function clearMarkers() {
-        for (let i = 0; i < mapMarkers.length; i++) {
+        for (let i=0; i < mapMarkers.length; i++) {
             mapMarkers[i].setMap(null);
         }
         // Puts the removed Markers back into the array: 
@@ -153,22 +153,22 @@ function initMap() {
 
     // Credit: jQuery help for buttons taken from: https://stackoverflow.com/questions/4323848/how-to-handle-button-click-events-in-jquery
     // Button on click shows three markers for attractions and removes previously clicked markers:
-    $(".attractions-btn").on("click", function(){
+    $(".attractions-btn").on("click", function() {
         clearMarkers(); showMarkers(attractionMarkers);
     });
     
     // Button on click shows three markers for museums and removes previously clicked markers:
-    $(".museums-btn").on("click", function(){
+    $(".museums-btn").on("click", function() {
         clearMarkers(); showMarkers(museumMarkers);
     });
     
     // Button on click shows three markers for sites and removes previously clicked markers:
-    $(".sites-btn").on("click", function(){
+    $(".sites-btn").on("click", function() {
         clearMarkers(); showMarkers(siteMarkers);
     });
     
     // Button on click shows three markers for walks and removes previously clicked markers:
-    $(".walks-btn").on("click", function(){
+    $(".walks-btn").on("click", function() {
         clearMarkers(); showMarkers(walkMarkers);
     });
 }
