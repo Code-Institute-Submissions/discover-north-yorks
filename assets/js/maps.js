@@ -126,7 +126,9 @@ function initMap() {
         mapMarkers.push(marker);
 
         // Info Window for Markers:
-        let infoWindow = new google.maps.InfoWindow();
+        let infoWindow = new google.maps.InfoWindow({
+            maxWidth: 300,
+        });
 
         // Opens Info Window on click:
         marker.addListener("click", () => {
