@@ -155,22 +155,22 @@ function initMap() {
 
     // Credit: jQuery help for buttons taken from: https://stackoverflow.com/questions/4323848/how-to-handle-button-click-events-in-jquery
     // Button on click shows three markers for attractions and removes previously clicked markers:
-    $(".attractions-btn").on("click", function() {
+    $(".attractions-btn").click(function() {
         clearMarkers(); showMarkers(attractionMarkers);
     });
     
     // Button on click shows three markers for museums and removes previously clicked markers:
-    $(".museums-btn").on("click", function() {
+    $(".museums-btn").click(function() {
         clearMarkers(); showMarkers(museumMarkers);
     });
     
     // Button on click shows three markers for sites and removes previously clicked markers:
-    $(".sites-btn").on("click", function() {
+    $(".sites-btn").click(function() {
         clearMarkers(); showMarkers(siteMarkers);
     });
     
     // Button on click shows three markers for walks and removes previously clicked markers:
-    $(".walks-btn").on("click", function() {
+    $(".walks-btn").click(function() {
         clearMarkers(); showMarkers(walkMarkers);
     });
 }
