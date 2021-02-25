@@ -175,6 +175,9 @@ I felt the design of the about section was very plain and not appealing to the u
 
 * [W3C Markup Validation](https://validator.w3.org/#validate_by_uri) was used to validate the code in the four HTML files.
 * [W3C CSS Validation](https://jigsaw.w3.org/css-validator/#validate_by_uri) was used to validate the code in my *style.css* file.
+
+![CSS-Validation](assets/testing/css-validation.png)
+
 * [JShint](https://jshint.com/) was used to validate the JS in each of my three JS files.
 
 ### Testing of User Stories in UX section:
