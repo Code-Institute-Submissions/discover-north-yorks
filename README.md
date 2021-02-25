@@ -174,6 +174,10 @@ I felt the design of the about section was very plain and not appealing to the u
 ### Validation
 
 * [W3C Markup Validation](https://validator.w3.org/#validate_by_uri) was used to validate the code in the four HTML files.
+I tested each page separately and they have all passed with no errors. The image below is of the webpage URL showing no errors.
+
+![HTML-Validation](assets/testing/html-validation.png)
+
 * [W3C CSS Validation](https://jigsaw.w3.org/css-validator/#validate_by_uri) was used to validate the code in my *style.css* file.
 
 ![CSS-Validation](assets/testing/css-validation.png)
